@@ -266,5 +266,38 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<dict>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>description</key>
+		<string>SIMBL plugin to add item count badge to trash icon in dock</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/binventory_2.1.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>binventory</string>
+		<key>package</key>
+		<string>com.alexzielenski.binventory</string>
+		<key>size</key>
+		<string>21730</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>2.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 </array>
 </plist>

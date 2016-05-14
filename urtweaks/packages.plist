@@ -10,7 +10,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Send Chrome notification to the notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -47,7 +47,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Adds useful window management commands to most Mac apps</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -80,7 +80,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Improve the dictionary app</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -113,73 +113,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/binventory_1.0.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>binventory</string>
-		<key>package</key>
-		<string>com.alexzielenski.binventory</string>
-		<key>size</key>
-		<string>21552</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.dock</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.0</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>apps</key>
-		<string></string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>description</key>
-		<string></string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/CustomNC_1.4.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>CustomNC</string>
-		<key>package</key>
-		<string>me.inket.CustomNC</string>
-		<key>size</key>
-		<string>401437</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.notificationcenterui</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.4</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>apps</key>
-		<string></string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>description</key>
-		<string></string>
+		<string>Force the Dock to display in Dark Mode</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -216,7 +150,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Hide the menubar on OSX 10.10 and below</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -249,7 +183,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Remove Faviocons from chrome</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -286,7 +220,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>No sidebar in preview</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -319,7 +253,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Improvements to Safari</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -352,7 +286,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Copy text on selection in Terminal</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -385,7 +319,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Disply a notification when others are typing in Messages</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -412,13 +346,13 @@
 	</dict>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>Safari</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Safari 5 tabs on Safari 6+</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -440,6 +374,39 @@
 		</array>
 		<key>version</key>
 		<string>1.4.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/CustomNC_1.5.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>CustomNC</string>
+		<key>package</key>
+		<string>me.inket.CustomNC</string>
+		<key>size</key>
+		<string>21336</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.notificationcenterui</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.5</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
