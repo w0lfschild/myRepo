@@ -278,7 +278,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/binventory_2.1.zip</string>
+		<string>/bundles/binventory_2.2.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -286,7 +286,7 @@
 		<key>package</key>
 		<string>com.alexzielenski.binventory</string>
 		<key>size</key>
-		<string>21730</string>
+		<string>31376</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -295,7 +295,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>2.1</string>
+		<string>2.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>

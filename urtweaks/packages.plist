@@ -410,5 +410,71 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/ScrollbarsOnTheLeft_.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>ScrollbarsOnTheLeft</string>
+		<key>package</key>
+		<string>com.BenTrask.ScrollbarsOnTheLeft</string>
+		<key>size</key>
+		<string>9786</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string></string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/Spaytify_1.0.1.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>Spaytify</string>
+		<key>package</key>
+		<string>io.callcc.Spaytify</string>
+		<key>size</key>
+		<string>4799</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.spotify.client</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 </array>
 </plist>
