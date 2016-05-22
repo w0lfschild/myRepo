@@ -488,7 +488,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/MouseTerm_.zip</string>
+		<string>/bundles/MouseTerm_plus-1.0a10.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -505,7 +505,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string></string>
+		<string>plus-1.0a10</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -521,7 +521,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/noTitleBar-Terminal_.zip</string>
+		<string>/bundles/noTitleBar-Terminal_0.2.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -538,7 +538,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string></string>
+		<string>0.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
