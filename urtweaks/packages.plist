@@ -478,13 +478,13 @@
 	</dict>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>Terminal</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string></string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Adds xterm mouse reporting to Terminal</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -511,13 +511,13 @@
 	</dict>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>Terminal</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string></string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string></string>
+		<string>Remove the titlebar / toolbar from Terminal</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
