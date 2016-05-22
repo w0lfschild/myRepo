@@ -274,11 +274,11 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string>SIMBL plugin to add item count badge to trash icon in dock</string>
+		<string>Add item count badge to trash icon in dock</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/binventory_2.2.zip</string>
+		<string>/bundles/binventory_2.4.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -286,7 +286,7 @@
 		<key>package</key>
 		<string>com.alexzielenski.binventory</string>
 		<key>size</key>
-		<string>31376</string>
+		<string>32861</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -295,7 +295,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>2.2</string>
+		<string>2.4</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>

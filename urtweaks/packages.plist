@@ -476,5 +476,71 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/MouseTerm_.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>MouseTerm</string>
+		<key>package</key>
+		<string>org.bitheap.MouseTerm</string>
+		<key>size</key>
+		<string>76236</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Terminal</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string></string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/noTitleBar-Terminal_.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>noTitleBar-Terminal</string>
+		<key>package</key>
+		<string>me.choco.noTitleBarTerminal</string>
+		<key>size</key>
+		<string>9645</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Terminal</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string></string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 </array>
 </plist>
