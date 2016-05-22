@@ -290,7 +290,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/TerminalCopyOnSelect_.zip</string>
+		<string>/bundles/TerminalCopyOnSelect_0.1.0.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -307,7 +307,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string></string>
+		<string>0.1.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/ScrollbarsOnTheLeft_.zip</string>
+		<string>/bundles/ScrollbarsOnTheLeft_1.0.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -439,7 +439,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string></string>
+		<string>1.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
