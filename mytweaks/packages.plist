@@ -76,7 +76,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string>Make windows grayscale when they&apos;re not in focus</string>
+		<string>Make windows grayscale when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -109,7 +109,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string>Add a &quot;Clear All&quot; button to Notification Center</string>
+		<string>Add a "Clear All" button to Notification Center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -179,7 +179,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/spotifyPlus_0.5.2.zip</string>
+		<string>/bundles/spotifyPlus_0.5.3.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -187,7 +187,7 @@
 		<key>package</key>
 		<string>org.w0lf.spotiHack</string>
 		<key>size</key>
-		<string>275493</string>
+		<string>62685</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -196,7 +196,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.5.2</string>
+		<string>0.5.3</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -241,7 +241,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
