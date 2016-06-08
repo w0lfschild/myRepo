@@ -245,7 +245,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/BlurFocus_1.0.zip</string>
+		<string>/bundles/BlurFocus_1.0.1.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -253,7 +253,7 @@
 		<key>package</key>
 		<string>org.w0lf.BlurFocus</string>
 		<key>size</key>
-		<string>6351</string>
+		<string>4849</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -262,7 +262,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0</string>
+		<string>1.0.1</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -296,6 +296,84 @@
 		</array>
 		<key>version</key>
 		<string>2.4</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/NoFavicons_1.4.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>NoFavicons</string>
+		<key>package</key>
+		<string>org.michaelphines.NoFavicons</string>
+		<key>size</key>
+		<string>19784</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.google.Chrome</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.google.Chrome.canary</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.4.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/colorfulSidebar9_1.3.2.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>colorfulSidebar9</string>
+		<key>package</key>
+		<string>jp.cvz.colorfulSidebar9</string>
+		<key>size</key>
+		<string>22852</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.security.pboxd</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.appkit.xpc.openAndSavePanelService</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.finder</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.3.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
