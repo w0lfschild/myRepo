@@ -113,7 +113,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/NotificationClear_0.1.0.zip</string>
+		<string>/bundles/NotificationClear_0.2.1.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -121,7 +121,7 @@
 		<key>package</key>
 		<string>com.chuckhendo.NotificationClear</string>
 		<key>size</key>
-		<string>403153</string>
+		<string>21318</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -130,7 +130,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.1.0</string>
+		<string>0.2.1</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
