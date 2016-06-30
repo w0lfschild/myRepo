@@ -377,5 +377,38 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/DoctorDark_0.2.36.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>DoctorDark</string>
+		<key>package</key>
+		<string>org.w0lf.drdark</string>
+		<key>size</key>
+		<string>18886</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.2.36</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 </array>
 </plist>
