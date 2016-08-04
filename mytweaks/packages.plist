@@ -3,8 +3,14 @@
 <plist version="1.0">
 <array>
 	<dict>
+		<key>price</key>
+		<string>Free</string>
+		<key>date</key>
+		<date>2016-08-04T21:03:49Z</date>
+		<key>compat</key>
+		<string>macOS 10.9 and above</string>
 		<key>apps</key>
-		<string></string>
+		<string>Dock</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>contact</key>
@@ -16,7 +22,7 @@
 		<key>filename</key>
 		<string>/bundles/cDock_0.11.4.zip</string>
 		<key>homepage</key>
-		<string></string>
+		<string>http://w0lfschild.github.io/app_cDock.html</string>
 		<key>name</key>
 		<string>cDock</string>
 		<key>package</key>
