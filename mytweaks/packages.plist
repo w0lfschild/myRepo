@@ -8,11 +8,11 @@
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string>macOS 10.9 and above</string>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<date>2016-08-04T21:03:49Z</date>
+		<string>11-12-16 21:58PM</string>
 		<key>description</key>
 		<string>Customize your dock appearance</string>
 		<key>donate</key>
@@ -29,6 +29,8 @@
 		<string>Free</string>
 		<key>size</key>
 		<string>50100</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -46,8 +48,12 @@
 		<string></string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
 		<key>description</key>
 		<string>Adds a reload all tabs option</string>
 		<key>donate</key>
@@ -60,8 +66,12 @@
 		<string>safariSoda</string>
 		<key>package</key>
 		<string>org.w0lf.safariSoda</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>10976</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -79,41 +89,12 @@
 		<string></string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
-		<key>description</key>
-		<string>Enhance the spotify Desktop player</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/spotifyPlus_0.6.0.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>spotifyPlus</string>
-		<key>package</key>
-		<string>org.w0lf.spotiHack</string>
-		<key>size</key>
-		<string>58635</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.spotify.client</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.6.0</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>apps</key>
-		<string></string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
 		<key>description</key>
 		<string>Add vibrancy to most application windows</string>
 		<key>donate</key>
@@ -126,8 +107,12 @@
 		<string>zestyWin</string>
 		<key>package</key>
 		<string>org.w0lf.zestyWin</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>21895</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -145,8 +130,12 @@
 		<string></string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:57PM</string>
 		<key>description</key>
 		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
@@ -159,8 +148,12 @@
 		<string>BlurFocus</string>
 		<key>package</key>
 		<string>org.w0lf.BlurFocus</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>4849</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -178,8 +171,12 @@
 		<string></string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:57PM</string>
 		<key>description</key>
 		<string>Dark Mode for macOS</string>
 		<key>donate</key>
@@ -192,8 +189,12 @@
 		<string>DoctorDark</string>
 		<key>package</key>
 		<string>org.w0lf.drdark</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>19316</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -211,8 +212,12 @@
 		<string></string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
 		<key>description</key>
 		<string>Badge with item count for trash in Dock</string>
 		<key>donate</key>
@@ -225,8 +230,12 @@
 		<string>binventory</string>
 		<key>package</key>
 		<string>org.w0lf.binventory</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>33635</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -244,8 +253,12 @@
 		<string></string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
 		<key>description</key>
 		<string>Colorful Finder sidebar</string>
 		<key>donate</key>
@@ -258,8 +271,12 @@
 		<string>colorfulSidebar9</string>
 		<key>package</key>
 		<string>org.w0lf.colorfulSidebar9</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>22919</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -285,8 +302,12 @@
 		<string></string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
 		<key>description</key>
 		<string>Better fullscreen button and all windows able to go fullscreen</string>
 		<key>donate</key>
@@ -299,8 +320,12 @@
 		<string>fullscreenER</string>
 		<key>package</key>
 		<string>org.w0lf.fullscreenER</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>13817</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -318,8 +343,12 @@
 		<string></string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:57PM</string>
 		<key>description</key>
 		<string>Gray focus for background windows</string>
 		<key>donate</key>
@@ -332,8 +361,12 @@
 		<string>GrayFocus</string>
 		<key>package</key>
 		<string>org.w0lf.GrayFocus</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>16087</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -351,8 +384,12 @@
 		<string></string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:57PM</string>
 		<key>description</key>
 		<string>Removes favicons in Google Chrome</string>
 		<key>donate</key>
@@ -365,8 +402,12 @@
 		<string>NoFavicons</string>
 		<key>package</key>
 		<string>org.w0lf.NoFavicons</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>19779</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -388,8 +429,12 @@
 		<string></string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
 		<key>description</key>
 		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
@@ -402,8 +447,12 @@
 		<string>NotificationClear</string>
 		<key>package</key>
 		<string>org.w0lf.NotificationClear</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>21301</string>
+		<key>target</key>
+		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -413,6 +462,47 @@
 		</array>
 		<key>version</key>
 		<string>0.2.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/spotifyPlus_0.6.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>spotifyPlus</string>
+		<key>package</key>
+		<string>org.w0lf.spotiHack</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>58635</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.spotify.client</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.6.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
