@@ -3,18 +3,16 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>price</key>
-		<string>Free</string>
-		<key>date</key>
-		<date>2016-08-04T21:03:49Z</date>
-		<key>compat</key>
-		<string>macOS 10.9 and above</string>
 		<key>apps</key>
 		<string>Dock</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9 and above</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<date>2016-08-04T21:03:49Z</date>
 		<key>description</key>
 		<string>Customize your dock appearance</string>
 		<key>donate</key>
@@ -27,6 +25,8 @@
 		<string>cDock</string>
 		<key>package</key>
 		<string>org.w0lf.cDock</string>
+		<key>price</key>
+		<string>Free</string>
 		<key>size</key>
 		<string>50100</string>
 		<key>targets</key>
@@ -86,7 +86,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/spotifyPlus_0.5.3.zip</string>
+		<string>/bundles/spotifyPlus_0.6.0.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -94,7 +94,7 @@
 		<key>package</key>
 		<string>org.w0lf.spotiHack</string>
 		<key>size</key>
-		<string>62685</string>
+		<string>58635</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -103,7 +103,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.5.3</string>
+		<string>0.6.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -148,7 +148,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -185,7 +185,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/DoctorDark_0.2.36.zip</string>
+		<string>/bundles/DoctorDark_0.2.61.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -193,7 +193,7 @@
 		<key>package</key>
 		<string>org.w0lf.drdark</string>
 		<key>size</key>
-		<string>18886</string>
+		<string>19316</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -202,7 +202,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.2.36</string>
+		<string>0.2.61</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -391,7 +391,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string>Adds &quot;Clear All&quot; button to notification center</string>
+		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
