@@ -506,5 +506,46 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<dict>
+		<key>apps</key>
+		<string>loginwindow</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>12-09-16 23:26PM</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cleanHUD_0.1.32.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>cleanHUD</string>
+		<key>package</key>
+		<string>org.w0lf.template</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>25742</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.loginwindow</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.1.32</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 </array>
 </plist>
