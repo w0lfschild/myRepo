@@ -505,5 +505,62 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<dict>
+		<key>apps</key>
+		<string>Google Chrome</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<dict>
+			<key></key>
+			<string>macOS 10.9+</string>
+		</dict>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<dict>
+			<key></key>
+			<string>12-09-16 23:08PM</string>
+		</dict>
+		<key>description</key>
+		<string>Make themed windows in chrome behave the same way as unthemed windows when in the background.</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/ChromeDimBackground_0.1.1.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/krackers/ChromeDimBackground</string>
+		<key>name</key>
+		<string>ChromeDimBackground</string>
+		<key>package</key>
+		<string>org.michaelphines.ChromeDimBackground</string>
+		<key>price</key>
+		<dict>
+			<key></key>
+			<string>$0.00</string>
+		</dict>
+		<key>size</key>
+		<string>17929</string>
+		<key>target</key>
+		<dict>
+			<key></key>
+			<string>null</string>
+		</dict>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.google.Chrome</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.google.Chrome.canary</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.1.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 </array>
 </plist>
