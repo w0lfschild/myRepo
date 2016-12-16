@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>org.w0lf.cDock</key>
+	<dict>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
+		<key>description</key>
+		<string>Customize your dock appearance</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cDock_0.11.4.zip</string>
+		<key>homepage</key>
+		<string>http://w0lfschild.github.io/app_cDock.html</string>
+		<key>name</key>
+		<string>cDock</string>
+		<key>package</key>
+		<string>org.w0lf.cDock</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>50100</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.11.4</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.safariSoda</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
+		<key>description</key>
+		<string>Adds a reload all tabs option</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/safariSoda_1.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>safariSoda</string>
+		<key>package</key>
+		<string>org.w0lf.safariSoda</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>10976</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Safari</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.zestyWin</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
+		<key>description</key>
+		<string>Add vibrancy to most application windows</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/zestyWin_0.1.41.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>zestyWin</string>
+		<key>package</key>
+		<string>org.w0lf.zestyWin</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>21895</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.1.41</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.BlurFocus</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:57PM</string>
+		<key>description</key>
+		<string>Blur windows when they&apos;re not in focus</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/BlurFocus_1.0.1.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>BlurFocus</string>
+		<key>package</key>
+		<string>org.w0lf.BlurFocus</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>4849</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.drdark</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:57PM</string>
+		<key>description</key>
+		<string>Dark Mode for macOS</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/DoctorDark_0.2.61.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>DoctorDark</string>
+		<key>package</key>
+		<string>org.w0lf.drdark</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>19316</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.2.61</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.binventory</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
+		<key>description</key>
+		<string>Badge with item count for trash in Dock</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/binventory_2.6.7.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>binventory</string>
+		<key>package</key>
+		<string>org.w0lf.binventory</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>33635</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>2.6.7</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.colorfulSidebar9</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
+		<key>description</key>
+		<string>Colorful Finder sidebar</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/colorfulSidebar9_1.3.3.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>colorfulSidebar9</string>
+		<key>package</key>
+		<string>org.w0lf.colorfulSidebar9</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>22919</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.security.pboxd</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.appkit.xpc.openAndSavePanelService</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.finder</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.3.3</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.fullscreenER</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
+		<key>description</key>
+		<string>Better fullscreen button and all windows able to go fullscreen</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/fullscreenER_1.1.1.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>fullscreenER</string>
+		<key>package</key>
+		<string>org.w0lf.fullscreenER</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>13817</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.1.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.GrayFocus</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:57PM</string>
+		<key>descriptionShort</key>
+		<string>Gray focus for background windows</string>
+		<key>description</key>
+		<string>Gray focus for background windows</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/GrayFocus_2.2.1.zip</string>
+		<key>github</key>
+		<string>https://github.com/w0lfschild/GrayFocus</string>
+		<key>name</key>
+		<string>GrayFocus</string>
+		<key>package</key>
+		<string>org.w0lf.GrayFocus</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>16087</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>2.2.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.NoFavicons</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:57PM</string>
+		<key>description</key>
+		<string>Removes favicons in Google Chrome</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/NoFavicons_1.4.1.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>NoFavicons</string>
+		<key>package</key>
+		<string>org.w0lf.NoFavicons</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>19779</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.google.Chrome</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.google.Chrome.canary</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.5.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.NotificationClear</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
+		<key>description</key>
+		<string>Adds &quot;Clear All&quot; button to notification center</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/NotificationClear_0.2.2.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>NotificationClear</string>
+		<key>package</key>
+		<string>org.w0lf.NotificationClear</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>21301</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.notificationcenterui</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.2.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.spotiHack</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>11-12-16 21:58PM</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/spotifyPlus_0.6.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>spotifyPlus</string>
+		<key>package</key>
+		<string>org.w0lf.spotiHack</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>58635</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.spotify.client</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.6.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.cleanHUD</key>
+	<dict>
+		<key>apps</key>
+		<string>loginwindow</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>12-09-16 23:26PM</string>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cleanHUD_0.1.32.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>cleanHUD</string>
+		<key>package</key>
+		<string>org.w0lf.cleanHUD</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>25742</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.loginwindow</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.1.32</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.winBuddy</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>12-11-16 11:32AM</string>
+		<key>description</key>
+		<string>Removes the shadow around windows in every application window and adds a black border which changes to red when the window has focus. Options are controlled from the Window item in the menubar.</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/winBuddy_0.2.5.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>winBuddy</string>
+		<key>package</key>
+		<string>org.w0lf.winBuddy</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>22975</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.2.5</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
