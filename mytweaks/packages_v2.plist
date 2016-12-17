@@ -15,7 +15,7 @@
 		<key>date</key>
 		<string>11-12-16 21:57PM</string>
 		<key>description</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -147,7 +147,7 @@
 		<key>date</key>
 		<string>11-12-16 21:58PM</string>
 		<key>description</key>
-		<string>Adds "Clear All" button to notification center</string>
+		<string>Adds &quot;Clear All&quot; button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -273,7 +273,7 @@
 		<key>date</key>
 		<string>12-09-16 23:26PM</string>
 		<key>description</key>
-		<string></string>
+		<string>Minimal volume, screen and keyboard brightness HUDs </string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -491,7 +491,7 @@
 		<key>date</key>
 		<string>11-12-16 21:58PM</string>
 		<key>description</key>
-		<string></string>
+		<string>Add useful features to the Spotify desktop player</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
