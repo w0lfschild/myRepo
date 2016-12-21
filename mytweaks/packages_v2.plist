@@ -5,7 +5,7 @@
 	<key>org.w0lf.BlurFocus</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>System</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -15,7 +15,7 @@
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -47,7 +47,7 @@
 	<key>org.w0lf.GrayFocus</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>System</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -55,7 +55,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:57PM</string>
+		<string>Nov 12, 2016</string>
 		<key>description</key>
 		<string>Gray focus for background windows</string>
 		<key>descriptionShort</key>
@@ -91,11 +91,11 @@
 	<key>org.w0lf.NoFavicons</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>Google Chrome</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string>macOS 10.9+</string>
+		<string>Chrome 50+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
@@ -137,7 +137,7 @@
 	<key>org.w0lf.NotificationClear</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>Notification Center</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -145,9 +145,9 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:58PM</string>
+		<string>Nov 12, 2016</string>
 		<key>description</key>
-		<string>Adds "Clear All" button to notification center</string>
+		<string>Adds &quot;Clear All&quot; button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -179,7 +179,7 @@
 	<key>org.w0lf.binventory</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>Dock</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -187,7 +187,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:58PM</string>
+		<string>Nov 12, 2016</string>
 		<key>description</key>
 		<string>Badge with item count for trash in Dock</string>
 		<key>donate</key>
@@ -229,7 +229,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:58PM</string>
+		<string>Nov 12, 2016</string>
 		<key>description</key>
 		<string>Customize your dock appearance</string>
 		<key>donate</key>
@@ -305,7 +305,7 @@
 	<key>org.w0lf.colorfulSidebar9</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>Finder</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -313,7 +313,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:58PM</string>
+		<string>Nov 12, 2016</string>
 		<key>description</key>
 		<string>Colorful Finder sidebar</string>
 		<key>donate</key>
@@ -355,7 +355,7 @@
 	<key>org.w0lf.drdark</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>System</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -363,7 +363,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:57PM</string>
+		<string>Nov 12, 2016</string>
 		<key>description</key>
 		<string>Dark Mode for macOS</string>
 		<key>donate</key>
@@ -397,7 +397,7 @@
 	<key>org.w0lf.fullscreenER</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>System</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -405,7 +405,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:58PM</string>
+		<string>Nov 12, 2016</string>
 		<key>description</key>
 		<string>Better fullscreen button and all windows able to go fullscreen</string>
 		<key>donate</key>
@@ -439,7 +439,7 @@
 	<key>org.w0lf.safariSoda</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>Safari</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -447,7 +447,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:58PM</string>
+		<string>Nov 12, 2016</string>
 		<key>description</key>
 		<string>Adds a reload all tabs option</string>
 		<key>donate</key>
@@ -481,15 +481,15 @@
 	<key>org.w0lf.spotiHack</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>Spotify</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string>macOS 10.9+</string>
+		<string>Spotify 1.0.28+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:58PM</string>
+		<string>Nov 12, 2016</string>
 		<key>description</key>
 		<string>Add useful features to the Spotify desktop player</string>
 		<key>donate</key>
@@ -523,7 +523,7 @@
 	<key>org.w0lf.winBuddy</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>System</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -567,7 +567,7 @@
 	<key>org.w0lf.zestyWin</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>System</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -575,7 +575,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:58PM</string>
+		<string>Nov 12, 2016</string>
 		<key>description</key>
 		<string>Add vibrancy to most application windows</string>
 		<key>donate</key>
