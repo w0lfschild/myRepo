@@ -13,13 +13,13 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>11-12-16 21:57PM</string>
+		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/BlurFocus_1.0.1.zip</string>
+		<string>/bundles/BlurFocus_1.0.18.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -29,7 +29,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>4849</string>
+		<string>17382</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -40,7 +40,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0.1</string>
+		<string>1.0.18</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -147,7 +147,7 @@
 		<key>date</key>
 		<string>11-12-16 21:58PM</string>
 		<key>description</key>
-		<string>Adds &quot;Clear All&quot; button to notification center</string>
+		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -271,13 +271,13 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>12-09-16 23:26PM</string>
+		<string>Dec 20, 2016</string>
 		<key>description</key>
 		<string>Minimal volume, screen and keyboard brightness HUDs </string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cleanHUD_0.1.32.zip</string>
+		<string>/bundles/cleanHUD_0.2.4.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -285,9 +285,9 @@
 		<key>package</key>
 		<string>org.w0lf.cleanHUD</string>
 		<key>price</key>
-		<string>$0.00</string>
+		<string>Free</string>
 		<key>size</key>
-		<string>25742</string>
+		<string>35593</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -298,7 +298,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.1.32</string>
+		<string>0.2.4</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -531,13 +531,15 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>12-11-16 11:32AM</string>
+		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Removes the shadow around windows in every application window and adds a black border which changes to red when the window has focus. Options are controlled from the Window item in the menubar.</string>
+		<string>Removes window shadow, black border and more</string>
+		<key>descriptionShort</key>
+		<string></string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/winBuddy_0.2.5.zip</string>
+		<string>/bundles/winBuddy_0.2.7.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -545,9 +547,9 @@
 		<key>package</key>
 		<string>org.w0lf.winBuddy</string>
 		<key>price</key>
-		<string>$0.00</string>
+		<string>Free</string>
 		<key>size</key>
-		<string>22975</string>
+		<string>23087</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -558,7 +560,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.2.5</string>
+		<string>0.2.7</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
