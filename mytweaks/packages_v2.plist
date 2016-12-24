@@ -95,17 +95,17 @@
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string>Chrome 50+</string>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Dec 16, 2016</string>
+		<string>Dec 24, 2016</string>
 		<key>description</key>
 		<string>Removes favicons in Google Chrome</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/NoFavicons_1.4.1.zip</string>
+		<string>/bundles/NoFavicons_1.6.2.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -115,7 +115,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>19779</string>
+		<string>20190</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -130,7 +130,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.4.1</string>
+		<string>1.6.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -271,13 +271,13 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Dec 20, 2016</string>
+		<string>Dec 24, 2016</string>
 		<key>description</key>
 		<string>Minimal volume, screen and keyboard brightness HUDs </string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cleanHUD_0.2.4.zip</string>
+		<string>/bundles/cleanHUD_0.2.9.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -287,7 +287,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>35593</string>
+		<string>45975</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -298,7 +298,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.2.4</string>
+		<string>0.2.9</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
