@@ -411,7 +411,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/fullscreenER_1.2.1.zip</string>
+		<string>/bundles/fullscreenER_1.2.2.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -421,7 +421,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>14397</string>
+		<string>14381</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -432,7 +432,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.2.1</string>
+		<string>1.2.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
