@@ -47,39 +47,6 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>description</key>
-		<string>Adds useful window management commands to most Mac apps</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/Afloat_2.3.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>Afloat</string>
-		<key>package</key>
-		<string>net.infinite-labs.Afloat</string>
-		<key>size</key>
-		<string>511399</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>2.3</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>apps</key>
-		<string></string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>description</key>
 		<string>Improve the dictionary app</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>

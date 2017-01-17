@@ -491,46 +491,6 @@ Matt Green</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
-	<key>net.infinite-labs.Afloat</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string></string>
-		<key>date</key>
-		<string>Dec 21, 2016</string>
-		<key>description</key>
-		<string>Adds useful window management commands to most Mac apps</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/Afloat_2.3.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>Afloat</string>
-		<key>package</key>
-		<string>net.infinite-labs.Afloat</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<string>511399</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>2.3</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
 	<key>org.bitheap.MouseTerm</key>
 	<dict>
 		<key>apps</key>
