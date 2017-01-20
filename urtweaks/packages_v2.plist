@@ -261,13 +261,13 @@
 		<key>contact</key>
 		<string></string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 19, 2017</string>
 		<key>description</key>
 		<string>Copy text on selection in Terminal</string>
 		<key>donate</key>
-		<string></string>
+		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/TerminalCopyOnSelect_0.1.0.zip</string>
+		<string>/bundles/TerminalCopyOnSelect_0.1.2.zip</string>
 		<key>homepage</key>
 		<string>https://github.com/u-minor/terminalcopyonselect</string>
 		<key>name</key>
@@ -277,7 +277,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>11405</string>
+		<string>5153</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -286,7 +286,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.1.0</string>
+		<string>0.1.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -344,7 +344,7 @@ Matt Green</string>
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
-		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
+		<string>Disable Spotify's badging/bouncing of the dock icon</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
