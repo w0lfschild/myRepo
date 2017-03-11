@@ -57,7 +57,7 @@
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -189,7 +189,7 @@
 		<key>date</key>
 		<string>Nov 12, 2016</string>
 		<key>description</key>
-		<string>Adds "Clear All" button to notification center</string>
+		<string>Adds &quot;Clear All&quot; button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -573,15 +573,15 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Dec 20, 2016</string>
+		<string>Mar 11, 2017</string>
 		<key>description</key>
-		<string>Removes window shadow, black border and more</string>
+		<string>winBuddy is a SIMBL plugin that removes the shadow around windows in every application window on macOS it also allows for hiding the menubar and dock and placing a border around windows.</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>Removes window shadow, black border and more</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/winBuddy_0.2.7.zip</string>
+		<string>/bundles/winBuddy_0.2.8.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -591,7 +591,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>23087</string>
+		<string>23316</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -602,7 +602,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.2.7</string>
+		<string>0.2.8</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
