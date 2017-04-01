@@ -405,13 +405,13 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Nov 12, 2016</string>
+		<string>Apr 01, 2017</string>
 		<key>description</key>
 		<string>Dark Mode for macOS</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/DoctorDark_0.2.61.zip</string>
+		<string>/bundles/DoctorDark_0.2.178.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -421,7 +421,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>19316</string>
+		<string>27620</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -432,7 +432,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.2.61</string>
+		<string>0.2.178</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
