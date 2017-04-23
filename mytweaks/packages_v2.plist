@@ -313,13 +313,13 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Mar 15, 2017</string>
+		<string>Apr 23, 2017</string>
 		<key>description</key>
 		<string>Minimal volume, screen and keyboard brightness HUDs </string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cleanHUD_0.4.2.zip</string>
+		<string>/bundles/cleanHUD_0.4.3.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -329,7 +329,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>48044</string>
+		<string>47865</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -340,7 +340,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.4.2</string>
+		<string>0.4.3</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
