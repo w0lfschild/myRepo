@@ -57,7 +57,7 @@
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -189,7 +189,7 @@
 		<key>date</key>
 		<string>Nov 12, 2016</string>
 		<key>description</key>
-		<string>Adds "Clear All" button to notification center</string>
+		<string>Adds &quot;Clear All&quot; button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -391,6 +391,48 @@
 		</array>
 		<key>version</key>
 		<string>1.3.3</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.darkNC</key>
+	<dict>
+		<key>apps</key>
+		<string>Notification Center</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Jun 12, 2017</string>
+		<key>description</key>
+		<string>Brings dark mode back to Notification Center on macOS 10.12+</string>
+		<key>descriptionShort</key>
+		<string>Brings dark mode back to Notification Center on macOS 10.12+</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/darkNC_1.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>darkNC</string>
+		<key>package</key>
+		<string>org.w0lf.darkNC</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>11502</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.notificationcenterui</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
