@@ -17,7 +17,7 @@
 		<key>description</key>
 		<string>Adds useful window management commands to applications</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>Adds useful window management commands to applications</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -56,6 +56,8 @@
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
 		<string>Dec 20, 2016</string>
+		<key>descriptionShort</key>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>description</key>
 		<string>Blur windows when they&apos;re not in focus</string>
 		<key>donate</key>
@@ -574,8 +576,19 @@
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
 		<string>Nov 12, 2016</string>
-		<key>description</key>
+		<key>descriptionShort</key>
 		<string>Add useful features to the Spotify desktop player</string>
+		<key>description</key>
+		<string>spotifyPlus is a SIMBL plugin that adds some features to the Spotify desktop player
+- Automatically mute audio ads
+- Block all ads (requires password to enable)
+- Change the dock icon to the now playing track art (three options)
+	- Square
+	- Tilted square
+	- Circular
+	- Add badge to app icon when muted or paused
+- Restart Spotify
+- Settings in Dock menu and the menubar</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>

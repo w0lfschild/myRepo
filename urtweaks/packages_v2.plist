@@ -344,7 +344,7 @@ Matt Green</string>
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
-		<string>Disable Spotify's badging/bouncing of the dock icon</string>
+		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -368,46 +368,6 @@ Matt Green</string>
 		</array>
 		<key>version</key>
 		<string>1.0.1</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>me.choco.noTitleBarTerminal</key>
-	<dict>
-		<key>apps</key>
-		<string>Terminal</string>
-		<key>author</key>
-		<string>Enrico Ghirardi</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>i@choco.me</string>
-		<key>date</key>
-		<string>Dec 21, 2016</string>
-		<key>description</key>
-		<string>Remove the titlebar / toolbar from Terminal</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/noTitleBar-Terminal_0.2.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/choco/noTitleBar-Terminal</string>
-		<key>name</key>
-		<string>noTitleBar-Terminal</string>
-		<key>package</key>
-		<string>me.choco.noTitleBarTerminal</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<string>9645</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Terminal</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
