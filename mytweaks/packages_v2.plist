@@ -56,10 +56,10 @@
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
 		<string>Dec 20, 2016</string>
-		<key>descriptionShort</key>
-		<string>Blur windows when they&apos;re not in focus</string>
 		<key>description</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
+		<key>descriptionShort</key>
+		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -191,7 +191,7 @@
 		<key>date</key>
 		<string>Nov 12, 2016</string>
 		<key>description</key>
-		<string>Adds &quot;Clear All&quot; button to notification center</string>
+		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -491,13 +491,13 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Jan 19, 2017</string>
+		<string>Jul 21, 2017</string>
 		<key>description</key>
 		<string>Better fullscreen button and all windows able to go fullscreen</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/fullscreenER_1.2.3.zip</string>
+		<string>/bundles/fullscreenER_1.2.4.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -507,7 +507,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>24650</string>
+		<string>24752</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -518,7 +518,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.2.3</string>
+		<string>1.2.4</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -576,8 +576,6 @@
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
 		<string>Nov 12, 2016</string>
-		<key>descriptionShort</key>
-		<string>Add useful features to the Spotify desktop player</string>
 		<key>description</key>
 		<string>spotifyPlus is a SIMBL plugin that adds some features to the Spotify desktop player
 - Automatically mute audio ads
@@ -589,6 +587,8 @@
 	- Add badge to app icon when muted or paused
 - Restart Spotify
 - Settings in Dock menu and the menubar</string>
+		<key>descriptionShort</key>
+		<string>Add useful features to the Spotify desktop player</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
