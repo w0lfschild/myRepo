@@ -143,13 +143,13 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Aug 03, 2017</string>
+		<string>Sep 04, 2017</string>
 		<key>description</key>
 		<string>Removes favicons in Google Chrome</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/NoFavicons_1.7.1.zip</string>
+		<string>/bundles/NoFavicons_1.8.0.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -159,7 +159,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>21446</string>
+		<string>22387</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -174,7 +174,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.7.1</string>
+		<string>1.8.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
