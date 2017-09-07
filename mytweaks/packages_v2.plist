@@ -407,7 +407,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Jun 12, 2017</string>
+		<string>Sep 06, 2017</string>
 		<key>description</key>
 		<string>Brings dark mode back to Notification Center on macOS 10.12+</string>
 		<key>descriptionShort</key>
@@ -415,7 +415,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/darkNC_1.0.zip</string>
+		<string>/bundles/darkNC_1.1.2.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -423,9 +423,9 @@
 		<key>package</key>
 		<string>org.w0lf.darkNC</string>
 		<key>price</key>
-		<string>$0.00</string>
+		<string>Free</string>
 		<key>size</key>
-		<string>11502</string>
+		<string>12054</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -434,7 +434,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0</string>
+		<string>1.1.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
