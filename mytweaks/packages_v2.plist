@@ -189,13 +189,13 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Nov 12, 2016</string>
+		<string>Sep 06, 2017</string>
 		<key>description</key>
 		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/NotificationClear_0.2.2.zip</string>
+		<string>/bundles/NotificationClear_0.2.4.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -205,7 +205,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>21301</string>
+		<string>22309</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -216,7 +216,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.2.2</string>
+		<string>0.2.4</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
