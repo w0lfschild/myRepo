@@ -130,6 +130,48 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>org.w0lf.FScriptLoader</key>
+	<dict>
+		<key>apps</key>
+		<string>All</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.13+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Feb 04, 2018</string>
+		<key>description</key>
+		<string>Loads F-Script</string>
+		<key>descriptionShort</key>
+		<string>Loads F-Script</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/FScriptLoader_1.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>FScriptLoader</string>
+		<key>package</key>
+		<string>org.w0lf.FScriptLoader</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>1234760</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>org.w0lf.GrayFocus</key>
 	<dict>
 		<key>apps</key>
