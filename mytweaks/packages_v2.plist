@@ -15,9 +15,9 @@
 		<key>date</key>
 		<string>Feb 03, 2018</string>
 		<key>description</key>
-		<string>Adds iMessage typing and read receipt indicators for the status bar</string>
+		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
 		<key>descriptionShort</key>
-		<string>Adds iMessage typing and read receipt indicators for the status bar</string>
+		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -761,9 +761,9 @@
 		<key>date</key>
 		<string>Feb 03, 2018</string>
 		<key>description</key>
-		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
+		<string>Adds iMessage typing and read receipt indicators for the status bar</string>
 		<key>descriptionShort</key>
-		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
+		<string>Adds iMessage typing and read receipt indicators for the status bar</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
