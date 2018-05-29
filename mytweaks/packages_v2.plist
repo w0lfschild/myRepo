@@ -357,13 +357,13 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Nov 12, 2016</string>
+		<string>May 29, 2018</string>
 		<key>description</key>
 		<string>Customize your dock appearance</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cDock_0.11.4.zip</string>
+		<string>/bundles/cDock_3.0.4.zip</string>
 		<key>homepage</key>
 		<string>http://w0lfschild.github.io/app_cDock.html</string>
 		<key>name</key>
@@ -373,7 +373,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>50100</string>
+		<string>916271</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -384,7 +384,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.11.4</string>
+		<string>3.0.4</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
