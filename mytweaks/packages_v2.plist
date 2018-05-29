@@ -9,11 +9,11 @@
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string>macOS 10.10+</string>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Feb 03, 2018</string>
+		<string>May 29, 2018</string>
 		<key>description</key>
 		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
 		<key>descriptionShort</key>
@@ -21,7 +21,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/iMessageParity_0.1.2.zip</string>
+		<string>/bundles/iMessageParity_0.1.3.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -29,9 +29,9 @@
 		<key>package</key>
 		<string>com.sky.imessageParity</string>
 		<key>price</key>
-		<string>$0.00</string>
+		<string>Free</string>
 		<key>size</key>
-		<string>56690</string>
+		<string>67952</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -40,7 +40,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.1.2</string>
+		<string>0.1.3</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -99,9 +99,9 @@
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -275,7 +275,7 @@
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
-		<string>Adds &quot;Clear All&quot; button to notification center</string>
+		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
