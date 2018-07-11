@@ -99,9 +99,9 @@
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -275,7 +275,7 @@
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
-		<string>Adds &quot;Clear All&quot; button to notification center</string>
+		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -887,7 +887,7 @@
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Jun 18, 2018</string>
+		<string>Jul 11, 2018</string>
 		<key>description</key>
 		<string>Shrink the menubar of the running application</string>
 		<key>descriptionShort</key>
@@ -895,7 +895,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/moreMenu_0.2.1.zip</string>
+		<string>/bundles/moreMenu_0.3.1.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -903,9 +903,9 @@
 		<key>package</key>
 		<string>org.w0lf.zinger</string>
 		<key>price</key>
-		<string>$0.00</string>
+		<string>Free</string>
 		<key>size</key>
-		<string>16409</string>
+		<string>20919</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -914,7 +914,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.2.1</string>
+		<string>0.3.1</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
