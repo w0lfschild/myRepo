@@ -9,11 +9,11 @@
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string>macOS 10.10+</string>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Jul 11, 2018</string>
+		<string>Jul 12, 2018</string>
 		<key>description</key>
 		<string>Shrink the menubar of the running application</string>
 		<key>descriptionShort</key>
@@ -42,7 +42,7 @@
 			<string>26643</string>
 		</dict>
 		<key>size</key>
-		<string>20919</string>
+		<string>21196</string>
 		<key>targets</key>
 		<array>
 			<dict>
