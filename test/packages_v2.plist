@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>org.w0lf.moreMenu</key>
+	<dict>
+		<key>apps</key>
+		<string>All</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Jul 11, 2018</string>
+		<key>description</key>
+		<string>Shrink the menubar of the running application</string>
+		<key>descriptionShort</key>
+		<string>Shrink the menubar of the running application</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/moreMenu_0.3.2.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>isPaid</key>
+		<true/>
+		<key>name</key>
+		<string>moreMenu</string>
+		<key>package</key>
+		<string>org.w0lf.moreMenu</string>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productInfo</key>
+		<dict>
+			<key>apiKey</key>
+			<string>02a3c57238af53b3c465ef895729c765</string>
+			<key>productID</key>
+			<string>534403</string>
+			<key>vendorID</key>
+			<string>26643</string>
+		</dict>
+		<key>size</key>
+		<string>20919</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.3.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

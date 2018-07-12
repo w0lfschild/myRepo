@@ -99,9 +99,9 @@
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -275,7 +275,7 @@
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
-		<string>Adds "Clear All" button to notification center</string>
+		<string>Adds &quot;Clear All&quot; button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -903,7 +903,7 @@
 		<key>package</key>
 		<string>org.w0lf.zinger</string>
 		<key>price</key>
-		<string>Free</string>
+		<string>$1.99</string>
 		<key>size</key>
 		<string>20919</string>
 		<key>targets</key>
