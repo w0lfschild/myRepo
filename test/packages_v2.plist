@@ -76,14 +76,10 @@
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
 		<string>/bundles/whosTyping_0.0.2.zip</string>
-		<key>homepage</key>
-		<string></string>
 		<key>name</key>
 		<string>whosTyping</string>
 		<key>package</key>
 		<string>org.w0lf.whosTyping</string>
-		<key>price</key>
-		<string>$0.99</string>
 		<key>size</key>
 		<string>181557</string>
 		<key>targets</key>
@@ -95,8 +91,16 @@
 		</array>
 		<key>version</key>
 		<string>0.0.2</string>
+		<key>homepage</key>
+		<string></string>
 		<key>webpage</key>
 		<string></string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$0.99</string>
+		<key>productID</key>
+		<string>534450</string>
 	</dict>
 	<key>org.w0lf.cleanHUD</key>
 	<dict>
@@ -112,22 +116,18 @@
 		<string>Jan 07, 2018</string>
 		<key>description</key>
 		<string>Minimal volume, screen and keyboard brightness HUDs </string>
+		<key>descriptionShort</key>
+		<string>Minimal volume, screen and keyboard brightness HUDs </string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
 		<string>/bundles/cleanHUD_0.5.3.zip</string>
-		<key>homepage</key>
-		<string></string>
 		<key>name</key>
 		<string>cleanHUD</string>
 		<key>package</key>
 		<string>org.w0lf.cleanHUD</string>
-		<key>price</key>
-		<string>$1.99</string>
 		<key>size</key>
 		<string>50851</string>
-		<key>target</key>
-		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -139,6 +139,14 @@
 		<string>0.5.3</string>
 		<key>webpage</key>
 		<string></string>
+		<key>homepage</key>
+		<string></string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>534450</string>
 	</dict>
 	<key>org.w0lf.moreMenu</key>
 	<dict>
