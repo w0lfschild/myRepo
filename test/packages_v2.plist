@@ -32,15 +32,8 @@
 		<string>org.w0lf.moreMenu</string>
 		<key>price</key>
 		<string>$1.99</string>
-		<key>productInfo</key>
-		<dict>
-			<key>apiKey</key>
-			<string>02a3c57238af53b3c465ef895729c765</string>
-			<key>productID</key>
-			<string>534450</string>
-			<key>vendorID</key>
-			<string>26643</string>
-		</dict>
+		<key>productID</key>
+		<string>534450</string>
 		<key>size</key>
 		<string>21196</string>
 		<key>targets</key>
