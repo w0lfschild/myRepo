@@ -15,6 +15,8 @@
 		<key>date</key>
 		<string>Sep 02, 2017</string>
 		<key>description</key>
+		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
+		<key>descriptionShort</key>
 		<string>Colorful Finder sidebar</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
@@ -26,8 +28,6 @@
 		<string>org.w0lf.colorfulSidebar9</string>
 		<key>size</key>
 		<string>26784</string>
-		<key>target</key>
-		<string>null</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -69,9 +69,9 @@
 		<key>date</key>
 		<string>Feb 03, 2018</string>
 		<key>description</key>
-		<string>Adds iMessage typing and read receipt indicators for the status bar</string>
+		<string>Adds an item to the statusbar which displays iMessage typing and read receipts.</string>
 		<key>descriptionShort</key>
-		<string>Adds iMessage typing and read receipt indicators for the status bar</string>
+		<string>iMessage typing / read indicator the status bar</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -115,9 +115,9 @@
 		<key>date</key>
 		<string>Jan 07, 2018</string>
 		<key>description</key>
-		<string>Minimal volume, screen and keyboard brightness HUDs </string>
+		<string>Customizes the volume, screen and keyboard brightness HUDs to be minimal and unobtrusive, like they should be.</string>
 		<key>descriptionShort</key>
-		<string>Minimal volume, screen and keyboard brightness HUDs </string>
+		<string>Minimal HUDs </string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
