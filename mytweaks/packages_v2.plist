@@ -99,9 +99,9 @@
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -275,7 +275,7 @@
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
-		<string>Adds &quot;Clear All&quot; button to notification center</string>
+		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -702,11 +702,11 @@
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string>Spotify 1.0.28+</string>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Nov 12, 2016</string>
+		<string>Aug 21, 2018</string>
 		<key>description</key>
 		<string>spotifyPlus is a SIMBL plugin that adds some features to the Spotify desktop player
 - Automatically mute audio ads
@@ -723,7 +723,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/spotifyPlus_0.6.0.zip</string>
+		<string>/bundles/spotifyPlus_0.6.3.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -733,7 +733,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>58635</string>
+		<string>823860</string>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -744,7 +744,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.6.0</string>
+		<string>0.6.3</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
