@@ -194,5 +194,51 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>org.w0lf.cDock</key>
+	<dict>
+		<key>bundleType</key>
+		<string>app</string>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>May 29, 2018</string>
+		<key>description</key>
+		<string>Customize your dock appearance</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cDock_3.0.4.zip</string>
+		<key>icon</key>
+		<string>/icons/org.w0lf.cDock-GUI-icon.png</string>
+		<key>banner</key>
+		<string>/banners/org.w0lf.cDock-GUI-banner.png</string>
+		<key>name</key>
+		<string>cDock</string>
+		<key>package</key>
+		<string>org.w0lf.cDock-GUI</string>
+		<key>price</key>
+		<string>$4.99</string>
+		<key>size</key>
+		<string>69</string>
+		<key>version</key>
+		<string>1.2.0</string>
+		<key>webpage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+	</dict>
 </dict>
 </plist>
