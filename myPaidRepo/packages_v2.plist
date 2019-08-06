@@ -196,6 +196,8 @@
 	</dict>
 	<key>org.w0lf.cDock</key>
 	<dict>
+		<key>productID</key>
+		<string>520974</string>
 		<key>type</key>
 		<string>app</string>
 		<key>apps</key>
