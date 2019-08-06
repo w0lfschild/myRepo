@@ -336,30 +336,36 @@
 	</dict>
 	<key>com.alexbeals.spaces-renamer</key>
 	<dict>
-		<key>icon</key>
-		<string>/images/com.alexbeals.spaces-renamer/icon.png</string>
 		<key>banner</key>
 		<string>/images/com.alexbeals.spaces-renamer/banner.png</string>
+		<key>icon</key>
+		<string>/images/com.alexbeals.spaces-renamer/icon.png</string>
+		<key>productID</key>
+		<string>0</string>
+		<key>payed</key>
+		<false/>
+		<key>type</key>
+		<string>app</string>
 		<key>apps</key>
-		<string></string>
+		<string>Dock</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>Alex Beals</string>
 		<key>compat</key>
-		<string>macOS 10.9+</string>
+		<string>macOS 10.10+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string></string>
 		<key>date</key>
-		<string>May 29, 2018</string>
+		<string>Aug 05, 2019</string>
 		<key>description</key>
-		<string>Rename your spaces with this excellent plugin!</string>
+		<string>Rename spaces</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>Tool that lets you customize the names of your spaces to anything you want.</string>
 		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/spaces-renamer_1.4.1.zip</string>
-		<key>homepage</key>
 		<string></string>
+		<key>filename</key>
+		<string>/bundles/spaces-renamer_1.7.1.zip</string>
+		<key>homepage</key>
+		<string>https://alexbeals.com/</string>
 		<key>name</key>
 		<string>spaces-renamer</string>
 		<key>package</key>
@@ -376,9 +382,9 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.4.1</string>
+		<string>1.7.1</string>
 		<key>webpage</key>
-		<string></string>
+		<string>https://alexbeals.com/</string>
 	</dict>
 </dict>
 </plist>
