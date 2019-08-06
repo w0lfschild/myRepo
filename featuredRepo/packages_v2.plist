@@ -109,9 +109,9 @@
 	<key>org.w0lf.whosTyping</key>
 	<dict>
 		<key>banner</key>
-		<string>/images/org.w0lf.cDock-GUI/banner.png</string>
+		<string></string>
 		<key>icon</key>
-		<string>/images/org.w0lf.cDock-GUI/icon.png</string>
+		<string>/images/org.w0lf.whosTyping/icon.png</string>
 		<key>type</key>
 		<string>bundle</string>
 		<key>apps</key>
