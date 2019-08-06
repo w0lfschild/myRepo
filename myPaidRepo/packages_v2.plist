@@ -213,11 +213,11 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cDock_3.0.4.zip</string>
+		<string>/bundles/cDock_1.2.0.zip</string>
 		<key>icon</key>
-		<string>/icons/org.w0lf.cDock-GUI-icon.png</string>
+		<string>/images/org.w0lf.cDock-GUI/icon.png</string>
 		<key>banner</key>
-		<string>/banners/org.w0lf.cDock-GUI-banner.png</string>
+		<string>/images/org.w0lf.cDock-GUI/banner.png</string>
 		<key>name</key>
 		<string>cDock</string>
 		<key>package</key>
