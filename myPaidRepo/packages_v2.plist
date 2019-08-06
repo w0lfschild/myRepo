@@ -196,7 +196,7 @@
 	</dict>
 	<key>org.w0lf.cDock</key>
 	<dict>
-		<key>bundleType</key>
+		<key>type</key>
 		<string>app</string>
 		<key>apps</key>
 		<string>Dock</string>
@@ -219,7 +219,7 @@
 		<key>banner</key>
 		<string>/images/org.w0lf.cDock-GUI/banner.png</string>
 		<key>name</key>
-		<string>cDock</string>
+		<string>cDock 3</string>
 		<key>package</key>
 		<string>org.w0lf.cDock-GUI</string>
 		<key>price</key>
