@@ -99,9 +99,9 @@
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -275,7 +275,7 @@
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
-		<string>Adds "Clear All" button to notification center</string>
+		<string>Adds &quot;Clear All&quot; button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -343,48 +343,6 @@
 		</array>
 		<key>version</key>
 		<string>2.6.7</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>org.w0lf.cDock</key>
-	<dict>
-		<key>apps</key>
-		<string>Dock</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>date</key>
-		<string>May 29, 2018</string>
-		<key>description</key>
-		<string>Customize your dock appearance</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/cDock_3.0.4.zip</string>
-		<key>homepage</key>
-		<string>http://w0lfschild.github.io/app_cDock.html</string>
-		<key>name</key>
-		<string>cDock</string>
-		<key>package</key>
-		<string>org.w0lf.cDock</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<string>916271</string>
-		<key>target</key>
-		<string>null</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.dock</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>3.0.4</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
