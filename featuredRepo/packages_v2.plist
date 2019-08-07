@@ -340,8 +340,6 @@
 		<string>/images/com.alexbeals.spaces-renamer/banner.png</string>
 		<key>icon</key>
 		<string>/images/com.alexbeals.spaces-renamer/icon.png</string>
-		<key>productID</key>
-		<string>0</string>
 		<key>payed</key>
 		<false/>
 		<key>type</key>
