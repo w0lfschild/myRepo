@@ -567,28 +567,28 @@
 	<key>org.w0lf.iTunesPlus</key>
 	<dict>
 		<key>apps</key>
-		<string></string>
+		<string>Music</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string>macOS 10.9+</string>
+		<string>macOS 10.10+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
 		<string>May 05, 2018</string>
 		<key>description</key>
-		<string>iTunes is a plugin that adds some features to the iTunes desktop player
+		<string>iTunesPlus is a plugin that adds some features to the iTunes/Music desktop player like setting the dock icon to the currently playing tracks album art!
 - Change the dock icon to the now playing track art (three options)
 	- Square
 	- Tilted square
 	- Circular
 - Settings in Dock menu and the menubar</string>
 		<key>descriptionShort</key>
-		<string>Add useful features to the iTunes desktop player</string>
+		<string>Add useful features to the iTunes/Music desktop player</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/iTunesPlus_1.0.zip</string>
+		<string>/bundles/iTunesPlus_2.1.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -607,7 +607,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0</string>
+		<string>2.1</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
