@@ -27,9 +27,9 @@
 		<key>filename</key>
 		<string>/bundles/cDock_1.2.0.zip</string>
 		<key>icon</key>
-		<string>/images/org.w0lf.cDock-GUI/icon.png</string>
+		<string>/images/org.w0lf.cdock-gui/icon.png</string>
 		<key>banner</key>
-		<string>/images/org.w0lf.cDock-GUI/banner.png</string>
+		<string>/images/org.w0lf.cdock-gui/banner.png</string>
 		<key>name</key>
 		<string>cDock</string>
 		<key>package</key>
