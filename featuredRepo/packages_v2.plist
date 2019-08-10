@@ -29,7 +29,7 @@
 		<key>icon</key>
 		<string>/images/org.w0lf.cdock-gui/icon.png</string>
 		<key>banner</key>
-		<string>/images/org.w0lf.cdock-gui/banner.mp4</string>
+		<string>/images/org.w0lf.cdock-gui/banner.gif</string>
 		<key>name</key>
 		<string>cDock</string>
 		<key>package</key>
