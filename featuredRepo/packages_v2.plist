@@ -355,9 +355,9 @@
 		<key>date</key>
 		<string>Aug 05, 2019</string>
 		<key>description</key>
-		<string>Rename spaces</string>
+		<string>Simple menubar tool that lets you customize the names of your spaces to anything you want.</string>
 		<key>descriptionShort</key>
-		<string>Tool that lets you customize the names of your spaces to anything you want.</string>
+		<string>Rename spaces on macOS</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
