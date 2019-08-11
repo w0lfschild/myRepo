@@ -511,6 +511,10 @@
 		<array>
 			<dict>
 				<key>BundleIdentifier</key>
+				<string>com.apple.Music</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
 				<string>com.apple.iTunes</string>
 			</dict>
 		</array>
