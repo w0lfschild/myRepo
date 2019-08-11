@@ -222,10 +222,6 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
 		<string>/bundles/cDock_1.2.0.zip</string>
-		<key>icon</key>
-		<string>/images/org.w0lf.cDock-GUI/icon.png</string>
-		<key>banner</key>
-		<string>/images/org.w0lf.cDock-GUI/banner.png</string>
 		<key>name</key>
 		<string>cDock 3</string>
 		<key>package</key>
