@@ -121,7 +121,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cleanHUD_0.5.3.zip</string>
+		<string>/bundles/cleanHUD_0.6.1.zip</string>
 		<key>name</key>
 		<string>cleanHUD</string>
 		<key>package</key>
@@ -136,7 +136,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.5.3</string>
+		<string>0.6.1</string>
 		<key>webpage</key>
 		<string></string>
 		<key>homepage</key>
