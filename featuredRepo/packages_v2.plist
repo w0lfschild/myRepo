@@ -59,11 +59,11 @@
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string>macOS 10.9+</string>
+		<string>macOS 10.14+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Sep 02, 2017</string>
+		<string>Aug 26, 2019</string>
 		<key>description</key>
 		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
 		<key>descriptionShort</key>
@@ -71,7 +71,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/colorfulSidebar9_1.5.0.zip</string>
+		<string>/bundles/colorfulSidebar9_1.6.1.zip</string>
 		<key>name</key>
 		<string>colorfulSidebar</string>
 		<key>package</key>
@@ -94,7 +94,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.5.0</string>
+		<string>1.6.1</string>
 		<key>homepage</key>
 		<string></string>
 		<key>webpage</key>
