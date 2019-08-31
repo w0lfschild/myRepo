@@ -29,7 +29,7 @@
 		<key>icon</key>
 		<string>/images/org.w0lf.cdock-gui/icon.png</string>
 		<key>banner</key>
-		<string>/images/org.w0lf.cdock-gui/banner.gif</string>
+		<string></string>
 		<key>name</key>
 		<string>cDock</string>
 		<key>package</key>
@@ -161,7 +161,7 @@
 	<key>org.w0lf.cleanHUD</key>
 	<dict>
 		<key>banner</key>
-		<string>/images/org.w0lf.cleanHUD/banner.gif</string>
+		<string></string>
 		<key>apps</key>
 		<string>loginwindow</string>
 		<key>author</key>
@@ -254,6 +254,8 @@
 	</dict>
 	<key>net.infinite-labs.Afloat</key>
 	<dict>
+		<key>icon</key>
+		<string>/images/net.infinite-labs.Afloat/icon.png</string>
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
