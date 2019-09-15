@@ -115,8 +115,6 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 	</dict>
 	<key>org.w0lf.whosTyping</key>
 	<dict>
-		<key>banner</key>
-		<string></string>
 		<key>icon</key>
 		<string>/images/org.w0lf.whosTyping/icon.png</string>
 		<key>type</key>
@@ -167,8 +165,6 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 	</dict>
 	<key>org.w0lf.cleanHUD</key>
 	<dict>
-		<key>banner</key>
-		<string></string>
 		<key>apps</key>
 		<string>loginwindow</string>
 		<key>author</key>
@@ -347,8 +343,6 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 	</dict>
 	<key>com.alexbeals.spaces-renamer</key>
 	<dict>
-		<key>banner</key>
-		<string>/images/com.alexbeals.spaces-renamer/banner.png</string>
 		<key>icon</key>
 		<string>/images/com.alexbeals.spaces-renamer/icon.png</string>
 		<key>payed</key>
