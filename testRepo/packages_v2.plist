@@ -13,14 +13,14 @@
 		<key>paddle</key>
 		<dict>
 			<key>apikey</key>
-			<string></string>
+			<string>508205c7de527e9cc702cd1b1e5e2733</string>
 			<key>vendorid</key>
-			<string></string>
+			<string>102003</string>
 			<key>productid</key>
-			<string></string>
+			<string>570933</string>
 		</dict>
 		<key>productID</key>
-		<string>12345</string>
+		<string>570933</string>
 		<key>type</key>
 		<string>Bundle</string>
 		<key>apps</key>
