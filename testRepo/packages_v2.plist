@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.github.jslegendre.LiftOff</key>
+	<dict>
+		<key>icon</key>
+		<string>/images/com.github.jslegendre.LiftOff/icon.png</string>
+		<key>banner</key>
+		<string>/images/com.github.jslegendre.LiftOff/banner.png</string>
+		<key>payed</key>
+		<true/>
+		<key>paddle</key>
+		<dict>
+			<key>apikey</key>
+			<string></string>
+			<key>vendorid</key>
+			<string></string>
+			<key>productid</key>
+			<string></string>
+		</dict>
+		<key>productID</key>
+		<string>12345</string>
+		<key>type</key>
+		<string>Bundle</string>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string></string>
+		<key>compat</key>
+		<string>macOS 10.15+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>Sep 19, 2018</string>
+		<key>description</key>
+		<string></string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cDock_1.2.0.zip</string>
+		<key>name</key>
+		<string>cDock 3</string>
+		<key>package</key>
+		<string>com.github.jslegendre.LiftOff</string>
+		<key>price</key>
+		<string>$9.99</string>
+		<key>size</key>
+		<string>1234</string>
+		<key>version</key>
+		<string>0.0.2885</string>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

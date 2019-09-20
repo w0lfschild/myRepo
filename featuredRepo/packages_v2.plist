@@ -2,6 +2,60 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>org.w0lf.colorfulSidebar9</key>
+	<dict>
+		<key>apps</key>
+		<string>Finder</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.14+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Aug 26, 2019</string>
+		<key>description</key>
+		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
+		<key>descriptionShort</key>
+		<string>Colorful Finder sidebar</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/colorfulSidebar9_1.6.1.zip</string>
+		<key>name</key>
+		<string>colorfulSidebar</string>
+		<key>package</key>
+		<string>org.w0lf.colorfulSidebar9</string>
+		<key>size</key>
+		<string>26784</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.security.pboxd</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.appkit.xpc.openAndSavePanelService</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.finder</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.6.1</string>
+		<key>homepage</key>
+		<string></string>
+		<key>webpage</key>
+		<string></string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$0.99</string>
+		<key>productID</key>
+		<string>535218</string>
+	</dict>
 	<key>org.w0lf.cDock</key>
 	<dict>
 		<key>payed</key>
@@ -58,60 +112,6 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 				<string>com.apple.dock</string>
 			</dict>
 		</array>
-	</dict>
-	<key>org.w0lf.colorfulSidebar9</key>
-	<dict>
-		<key>apps</key>
-		<string>Finder</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.14+</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>date</key>
-		<string>Aug 26, 2019</string>
-		<key>description</key>
-		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
-		<key>descriptionShort</key>
-		<string>Colorful Finder sidebar</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/colorfulSidebar9_1.6.1.zip</string>
-		<key>name</key>
-		<string>colorfulSidebar</string>
-		<key>package</key>
-		<string>org.w0lf.colorfulSidebar9</string>
-		<key>size</key>
-		<string>26784</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.security.pboxd</string>
-			</dict>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.appkit.xpc.openAndSavePanelService</string>
-			</dict>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.finder</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.6.1</string>
-		<key>homepage</key>
-		<string></string>
-		<key>webpage</key>
-		<string></string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$0.99</string>
-		<key>productID</key>
-		<string>535218</string>
 	</dict>
 	<key>org.w0lf.whosTyping</key>
 	<dict>
@@ -299,48 +299,6 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>webpage</key>
 		<string></string>
 	</dict>
-	<key>com.sky.imessageParity</key>
-	<dict>
-		<key>apps</key>
-		<string>Messages</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>date</key>
-		<string>May 29, 2018</string>
-		<key>description</key>
-		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
-		<key>descriptionShort</key>
-		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/iMessageParity_0.1.3.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>iMessageParity</string>
-		<key>package</key>
-		<string>com.sky.imessageParity</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<string>67952</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.iChat</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.1.3</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
 	<key>com.alexbeals.spaces-renamer</key>
 	<dict>
 		<key>icon</key>
@@ -388,6 +346,48 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<string>1.7.1</string>
 		<key>webpage</key>
 		<string>https://alexbeals.com/</string>
+	</dict>
+	<key>com.sky.imessageParity</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>May 29, 2018</string>
+		<key>description</key>
+		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
+		<key>descriptionShort</key>
+		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/iMessageParity_0.1.3.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>iMessageParity</string>
+		<key>package</key>
+		<string>com.sky.imessageParity</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>67952</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.1.3</string>
+		<key>webpage</key>
+		<string></string>
 	</dict>
 </dict>
 </plist>
