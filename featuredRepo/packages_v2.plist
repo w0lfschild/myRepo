@@ -62,15 +62,6 @@
 		<string>/images/org.w0lf.cDock-GUI/icon.png</string>
 		<key>payed</key>
 		<true/>
-		<key>paddle</key>
-		<dict>
-			<key>apikey</key>
-			<string></string>
-			<key>vendorid</key>
-			<string></string>
-			<key>productid</key>
-			<string>520974</string>
-		</dict>
 		<key>productID</key>
 		<string>520974</string>
 		<key>type</key>
