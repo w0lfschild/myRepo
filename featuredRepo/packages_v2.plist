@@ -108,8 +108,6 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 	<dict>
 		<key>icon</key>
 		<string>/images/com.github.jslegendre.LiftOff/icon.png</string>
-		<key>banner</key>
-		<string></string>
 		<key>payed</key>
 		<true/>
 		<key>paddle</key>
