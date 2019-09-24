@@ -2,6 +2,213 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>org.w0lf.cDock</key>
+	<dict>
+		<key>icon</key>
+		<string>/images/org.w0lf.cDock-GUI/icon.png</string>
+		<key>payed</key>
+		<true/>
+		<key>productID</key>
+		<string>520974</string>
+		<key>type</key>
+		<string>app</string>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>May 29, 2018</string>
+		<key>description</key>
+		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
+
+There are many ways to configure cDock as you wish. Give it a go and find out!</string>
+		<key>descriptionShort</key>
+		<string>Customize your dock appearance</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cDock_1.2.0.zip</string>
+		<key>name</key>
+		<string>cDock 3</string>
+		<key>package</key>
+		<string>org.w0lf.cDock-GUI</string>
+		<key>price</key>
+		<string>$4.99</string>
+		<key>size</key>
+		<string>69</string>
+		<key>version</key>
+		<string>1.2.0</string>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+	</dict>
+	<key>org.w0lf.moreMenu</key>
+	<dict>
+		<key>icon</key>
+		<string>/images/org.w0lf.moreMenu/icon.png</string>
+		<key>apps</key>
+		<string>All</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Jul 12, 2018</string>
+		<key>description</key>
+		<string>moreMenu allows you to shrink the menubar of the running application
+
+&quot;It&apos;s like Bartender but for the left side!&quot; -Someone
+
+&quot;⭐️⭐️⭐️⭐️⭐️ 100% dankness confirmed.&quot; -Someone</string>
+		<key>descriptionShort</key>
+		<string>Shrink the menubar of the running application</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/moreMenu_0.3.2.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>payed</key>
+		<true/>
+		<key>name</key>
+		<string>moreMenu</string>
+		<key>package</key>
+		<string>org.w0lf.moreMenu</string>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>534450</string>
+		<key>size</key>
+		<string>21196</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.3.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.github.jslegendre.LiftOff</key>
+	<dict>
+		<key>icon</key>
+		<string>/images/com.github.jslegendre.LiftOff/icon.png</string>
+		<key>banner</key>
+		<string>/images/com.github.jslegendre.LiftOff/banner.png</string>
+		<key>payed</key>
+		<true/>
+		<key>paddle</key>
+		<dict>
+			<key>apikey</key>
+			<string>508205c7de527e9cc702cd1b1e5e2733</string>
+			<key>vendorid</key>
+			<string>102003</string>
+			<key>productid</key>
+			<string>570933</string>
+		</dict>
+		<key>productID</key>
+		<string>570933</string>
+		<key>type</key>
+		<string>Bundle</string>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string></string>
+		<key>compat</key>
+		<string>macOS 10.15+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>Sep 19, 2018</string>
+		<key>description</key>
+		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
+		<key>descriptionShort</key>
+		<string>Overlay Launchpad on the Desktop</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/LiftOff_0.0.2885.zip</string>
+		<key>name</key>
+		<string>LiftOff</string>
+		<key>package</key>
+		<string>com.github.jslegendre.LiftOff</string>
+		<key>price</key>
+		<string>$2.99</string>
+		<key>size</key>
+		<string>1234</string>
+		<key>version</key>
+		<string>0.0.2885</string>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+	</dict>
+	<key>org.w0lf.cleanHUD</key>
+	<dict>
+		<key>apps</key>
+		<string>loginwindow</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Aug 26, 2019</string>
+		<key>description</key>
+		<string>A beatiful and minimal volume, screen and keyboard brightness HUD. Keeps annoying pop-ups unobtrusive, like they should be.</string>
+		<key>descriptionShort</key>
+		<string>Minimal HUDs </string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cleanHUD_0.6.1.zip</string>
+		<key>name</key>
+		<string>cleanHUD</string>
+		<key>package</key>
+		<string>org.w0lf.cleanHUD</string>
+		<key>size</key>
+		<string>50851</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.loginwindow</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.6.1</string>
+		<key>webpage</key>
+		<string></string>
+		<key>homepage</key>
+		<string></string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>535217</string>
+	</dict>
 	<key>org.w0lf.colorfulSidebar9</key>
 	<dict>
 		<key>apps</key>
@@ -56,56 +263,6 @@
 		<key>productID</key>
 		<string>535218</string>
 	</dict>
-	<key>org.w0lf.cDock</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/org.w0lf.cDock-GUI/icon.png</string>
-		<key>payed</key>
-		<true/>
-		<key>productID</key>
-		<string>520974</string>
-		<key>type</key>
-		<string>app</string>
-		<key>apps</key>
-		<string>Dock</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>May 29, 2018</string>
-		<key>description</key>
-		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
-
-There are many ways to configure cDock as you wish. Give it a go and find out!</string>
-		<key>descriptionShort</key>
-		<string>Customize your dock appearance</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/cDock_1.2.0.zip</string>
-		<key>name</key>
-		<string>cDock 3</string>
-		<key>package</key>
-		<string>org.w0lf.cDock-GUI</string>
-		<key>price</key>
-		<string>$4.99</string>
-		<key>size</key>
-		<string>69</string>
-		<key>version</key>
-		<string>1.2.0</string>
-		<key>homepage</key>
-		<string>https://cdock.macenhance.com/</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.dock</string>
-			</dict>
-		</array>
-	</dict>
 	<key>org.w0lf.whosTyping</key>
 	<dict>
 		<key>icon</key>
@@ -155,100 +312,6 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<string>$0.99</string>
 		<key>productID</key>
 		<string>535221</string>
-	</dict>
-	<key>org.w0lf.cleanHUD</key>
-	<dict>
-		<key>apps</key>
-		<string>loginwindow</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>date</key>
-		<string>Aug 26, 2019</string>
-		<key>description</key>
-		<string>A beatiful and minimal volume, screen and keyboard brightness HUD. Keeps annoying pop-ups unobtrusive, like they should be.</string>
-		<key>descriptionShort</key>
-		<string>Minimal HUDs </string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/cleanHUD_0.6.1.zip</string>
-		<key>name</key>
-		<string>cleanHUD</string>
-		<key>package</key>
-		<string>org.w0lf.cleanHUD</string>
-		<key>size</key>
-		<string>50851</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.loginwindow</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.6.1</string>
-		<key>webpage</key>
-		<string></string>
-		<key>homepage</key>
-		<string></string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$1.99</string>
-		<key>productID</key>
-		<string>535217</string>
-	</dict>
-	<key>org.w0lf.moreMenu</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/org.w0lf.moreMenu/icon.png</string>
-		<key>apps</key>
-		<string>All</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>date</key>
-		<string>Jul 12, 2018</string>
-		<key>description</key>
-		<string>Shrink the menubar of the running application</string>
-		<key>descriptionShort</key>
-		<string>Shrink the menubar of the running application</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/moreMenu_0.3.2.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>payed</key>
-		<true/>
-		<key>name</key>
-		<string>moreMenu</string>
-		<key>package</key>
-		<string>org.w0lf.moreMenu</string>
-		<key>price</key>
-		<string>$1.99</string>
-		<key>productID</key>
-		<string>534450</string>
-		<key>size</key>
-		<string>21196</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.3.2</string>
-		<key>webpage</key>
-		<string></string>
 	</dict>
 	<key>net.infinite-labs.Afloat</key>
 	<dict>
