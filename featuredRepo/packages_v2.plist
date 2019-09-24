@@ -204,6 +204,8 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 	</dict>
 	<key>org.w0lf.moreMenu</key>
 	<dict>
+		<key>icon</key>
+		<string>/images/org.w0lf.moreMenu/icon.png</string>
 		<key>apps</key>
 		<string>All</string>
 		<key>author</key>
