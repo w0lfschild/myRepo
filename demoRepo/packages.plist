@@ -5,11 +5,19 @@
 	<key>com.github.jslegendre.LiftOff</key>
 	<dict>
 		<key>icon</key>
-		<string>/images/com.github.jslegendre.LiftOff/icon.png</string>
+		<true/>
 		<key>banner</key>
-		<string>/images/com.github.jslegendre.LiftOff/banner.png</string>
+		<false/>
+		<key>changelog</key>
+		<true/>
+		<key>previews</key>
+		<true/>
 		<key>payed</key>
 		<true/>
+		<key>productID</key>
+		<string>570933</string>
+		<key>price</key>
+		<string>$2.99</string>
 		<key>paddle</key>
 		<dict>
 			<key>apikey</key>
@@ -19,14 +27,12 @@
 			<key>productid</key>
 			<string>570933</string>
 		</dict>
-		<key>productID</key>
-		<string>570933</string>
 		<key>type</key>
 		<string>Bundle</string>
 		<key>apps</key>
 		<string>Dock</string>
-		<key>author</key>
-		<string></string>
+		<key>developer</key>
+		<string>jslegendre</string>
 		<key>compat</key>
 		<string>macOS 10.15+</string>
 		<key>contact</key>
@@ -40,19 +46,19 @@
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
-		<string>/bundles/LiftOff_0.0.2885.zip</string>
+		<string>LiftOff_0.0.2885.zip</string>
 		<key>name</key>
 		<string>LiftOff</string>
-		<key>package</key>
+		<key>bundleid</key>
 		<string>com.github.jslegendre.LiftOff</string>
-		<key>price</key>
-		<string>$2.99</string>
 		<key>size</key>
 		<string>1234</string>
+		<key>hash</key>
+		<string></string>
 		<key>version</key>
 		<string>0.0.2885</string>
 		<key>homepage</key>
-		<string>https://cdock.macenhance.com/</string>
+		<string>https://macenhance.com/</string>
 		<key>targets</key>
 		<array>
 			<dict>
