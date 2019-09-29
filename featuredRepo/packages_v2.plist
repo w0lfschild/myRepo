@@ -2,6 +2,54 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.nateparrott.Flashlight</key>
+	<dict>
+		<key>icon</key>
+		<string>/images/com.nateparrott.Flashlight/icon.png</string>
+		<key>payed</key>
+		<false/>
+		<key>productID</key>
+		<string></string>
+		<key>type</key>
+		<string>app</string>
+		<key>apps</key>
+		<string>Spotlight</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Sep 29, 2019</string>
+		<key>description</key>
+		<string>Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results.</string>
+		<key>descriptionShort</key>
+		<string>Add plugins to Spotlight 🔍</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/Flashlight_1.1.0.zip</string>
+		<key>name</key>
+		<string>Flashlight</string>
+		<key>package</key>
+		<string>com.nateparrott.Flashlight</string>
+		<key>price</key>
+		<string></string>
+		<key>size</key>
+		<string>69</string>
+		<key>version</key>
+		<string>1.1.0</string>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Spotlight</string>
+			</dict>
+		</array>
+	</dict>
 	<key>org.w0lf.cDock</key>
 	<dict>
 		<key>icon</key>
