@@ -355,7 +355,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>webpage</key>
 		<string></string>
 	</dict>
-	<key>com.alexbeals.spaces-renamer</key>
+	<key>com.alexbeals.SpacesRenamer</key>
 	<dict>
 		<key>icon</key>
 		<string>/images/com.alexbeals.spaces-renamer/icon.png</string>
@@ -386,7 +386,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>name</key>
 		<string>spaces-renamer</string>
 		<key>package</key>
-		<string>com.alexbeals.spaces-renamer</string>
+		<string>com.alexbeals.SpacesRenamer</string>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
