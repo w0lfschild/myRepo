@@ -13,7 +13,7 @@
 		<key>type</key>
 		<string>app</string>
 		<key>apps</key>
-		<string></string>
+		<string>Dark Boot</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
@@ -37,7 +37,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>package</key>
 		<string>org.w0lf.DarkBoot</string>
 		<key>price</key>
-		<string></string>
+		<string>Free</string>
 		<key>size</key>
 		<string>69</string>
 		<key>version</key>
