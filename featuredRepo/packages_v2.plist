@@ -33,7 +33,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>filename</key>
 		<string>/bundles/DarkBoot_6.0.3.zip</string>
 		<key>name</key>
-		<string>Flashlight</string>
+		<string>Dark Boot</string>
 		<key>package</key>
 		<string>org.w0lf.DarkBoot</string>
 		<key>price</key>
