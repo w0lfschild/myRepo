@@ -48,7 +48,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<array>
 			<dict>
 				<key>BundleIdentifier</key>
-				<string>com.apple.Spotlight</string>
+				<string>org.w0lf.DarkBoot</string>
 			</dict>
 		</array>
 	</dict>
