@@ -2,6 +2,56 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>org.w0lf.DarkBoot</key>
+	<dict>
+		<key>icon</key>
+		<string>/images/org.w0lf.DarkBoot/icon.png</string>
+		<key>payed</key>
+		<false/>
+		<key>productID</key>
+		<string></string>
+		<key>type</key>
+		<string>app</string>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Sep 29, 2019</string>
+		<key>description</key>
+		<string>Dark Boot gives you control over how your mac looks from the lock screen and when starting up. There are tons of options for customization so your mac can look just the way you want it to. Dark Boot is designed to make theming the Boot Screen, Login Screen and Lock Screen easy and robust on macOS 10.9 and up.
+
+There are many ways to configure Dark Boot as you wish. Give it a go and find out!</string>
+		<key>descriptionShort</key>
+		<string>Make your Macs boot and login screens pop</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/DarkBoot_6.0.3.zip</string>
+		<key>name</key>
+		<string>Flashlight</string>
+		<key>package</key>
+		<string>org.w0lf.DarkBoot</string>
+		<key>price</key>
+		<string></string>
+		<key>size</key>
+		<string>69</string>
+		<key>version</key>
+		<string>6.0.3</string>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Spotlight</string>
+			</dict>
+		</array>
+	</dict>
 	<key>com.nateparrott.Flashlight</key>
 	<dict>
 		<key>icon</key>
@@ -117,9 +167,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>description</key>
 		<string>moreMenu allows you to shrink the menubar of the running application
 
-&quot;It&apos;s like Bartender but for the left side!&quot; -Someone
+&quot;It&apos;s like Bartender but for the left side!&quot; - Craig Federighi
 
-&quot;⭐️⭐️⭐️⭐️⭐️ 100% dankness confirmed.&quot; -Someone</string>
+&quot;⭐️⭐️⭐️⭐️⭐️&quot; - Tim Cook</string>
 		<key>descriptionShort</key>
 		<string>Shrink the menubar of the running application</string>
 		<key>donate</key>
