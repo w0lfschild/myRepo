@@ -355,7 +355,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>payed</key>
 		<true/>
 		<key>price</key>
-		<string>$0.99</string>
+		<string>$1.99</string>
 		<key>productID</key>
 		<string>535218</string>
 	</dict>
