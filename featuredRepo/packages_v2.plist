@@ -456,7 +456,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 	<key>com.alexbeals.SpacesRenamer</key>
 	<dict>
 		<key>icon</key>
-		<string>/images/com.alexbeals.spaces-renamer/icon.png</string>
+		<string>/images/com.alexbeals.SpacesRenamer/icon.png</string>
 		<key>payed</key>
 		<false/>
 		<key>type</key>
