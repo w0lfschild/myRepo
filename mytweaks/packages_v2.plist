@@ -2,47 +2,53 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>org.w0lf.FScriptLoader</key>
+	<key>com.nateparrott.Flashlight</key>
 	<dict>
 		<key>apps</key>
-		<string>System</string>
+		<string>Spotlight</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string>macOS 10.9+</string>
+		<string>macOS 10.10+</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Sep 08, 2019</string>
+		<string>Sep 29, 2019</string>
 		<key>description</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results.</string>
 		<key>descriptionShort</key>
-		<string>Load F-Script into all applications</string>
+		<string>Add plugins to Spotlight 🔍</string>
 		<key>donate</key>
-		<string></string>
+		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/FScriptLoader_1.1.zip</string>
+		<string>/bundles/Flashlight_1.1.0.zip</string>
 		<key>homepage</key>
-		<string>https://github.com/w0lfschild/FScriptLoader</string>
+		<string>https://cdock.macenhance.com/</string>
+		<key>icon</key>
+		<string>/images/com.nateparrott.Flashlight/icon.png</string>
 		<key>name</key>
-		<string>FScriptLoader</string>
+		<string>Flashlight</string>
 		<key>package</key>
-		<string>org.w0lf.FScriptLoader</string>
+		<string>com.nateparrott.Flashlight</string>
+		<key>payed</key>
+		<false/>
 		<key>price</key>
-		<string>$0.00</string>
+		<string></string>
+		<key>productID</key>
+		<string></string>
 		<key>size</key>
-		<string>159030</string>
+		<string>69</string>
 		<key>targets</key>
 		<array>
 			<dict>
 				<key>BundleIdentifier</key>
-				<string>*</string>
+				<string>com.apple.Spotlight</string>
 			</dict>
 		</array>
+		<key>type</key>
+		<string>app</string>
 		<key>version</key>
-		<string>1.0</string>
-		<key>webpage</key>
-		<string></string>
+		<string>1.1.0</string>
 	</dict>
 	<key>com.sky.imessageParity</key>
 	<dict>
@@ -169,6 +175,98 @@
 		</array>
 		<key>version</key>
 		<string>1.0.18</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.DarkBoot</key>
+	<dict>
+		<key>apps</key>
+		<string>Dark Boot</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Sep 29, 2019</string>
+		<key>description</key>
+		<string>Dark Boot gives you control over how your mac looks from the lock screen and when starting up. There are tons of options for customization so your mac can look just the way you want it to. Dark Boot is designed to make theming the Boot Screen, Login Screen and Lock Screen easy and robust on macOS 10.9 and up.
+
+There are many ways to configure Dark Boot as you wish. Give it a go and find out!</string>
+		<key>descriptionShort</key>
+		<string>Make your Macs boot and login screens pop</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/DarkBoot_6.0.3.zip</string>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>icon</key>
+		<string>/images/org.w0lf.DarkBoot/icon.png</string>
+		<key>name</key>
+		<string>Dark Boot</string>
+		<key>package</key>
+		<string>org.w0lf.DarkBoot</string>
+		<key>payed</key>
+		<false/>
+		<key>price</key>
+		<string>Free</string>
+		<key>productID</key>
+		<string></string>
+		<key>size</key>
+		<string>69</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>org.w0lf.DarkBoot</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>6.0.3</string>
+	</dict>
+	<key>org.w0lf.FScriptLoader</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Sep 08, 2019</string>
+		<key>description</key>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<key>descriptionShort</key>
+		<string>Load F-Script into all applications</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/FScriptLoader_1.1.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/w0lfschild/FScriptLoader</string>
+		<key>name</key>
+		<string>FScriptLoader</string>
+		<key>package</key>
+		<string>org.w0lf.FScriptLoader</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>159030</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
