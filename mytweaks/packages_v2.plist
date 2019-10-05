@@ -606,7 +606,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/iTunesPlus_2.1.zip</string>
+		<string>/bundles/iTunesPlus_2.2.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -629,7 +629,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 			</dict>
 		</array>
 		<key>version</key>
-		<string>2.1</string>
+		<string>2.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
