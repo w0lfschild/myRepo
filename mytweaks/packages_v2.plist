@@ -94,6 +94,8 @@
 	</dict>
 	<key>net.infinite-labs.Afloat</key>
 	<dict>
+		<key>icon</key>
+		<string>/images/net.infinite-labs.Afloat/icon.png</string>
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
@@ -328,6 +330,8 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<string>Feb 04, 2018</string>
 		<key>description</key>
 		<string>Removes favicons in Google Chrome</string>
+		<key>descriptionShort</key>
+		<string>Removes favicons in Google Chrome</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -373,6 +377,8 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
+		<string>A simple plugin that adds &quot;Clear All&quot; button to the bottom of the notification center. This will instantly clear all notifications.</string>
+		<key>descriptionShort</key>
 		<string>Adds &quot;Clear All&quot; button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
@@ -415,6 +421,8 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Nov 12, 2016</string>
 		<key>description</key>
+		<string>Adds a badge with item count to the trash icon in Dock. Count is based on the top level of the trash and is not a recusrive count of all items in the trash.</string>
+		<key>descriptionShort</key>
 		<string>Badge with item count for trash in Dock</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
@@ -499,6 +507,8 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
+		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don&apos;t miss out on all the fun of Mojave&apos;s Dark Mode just because you can&apos;t update your machine!</string>
+		<key>descriptionShort</key>
 		<string>Dark Mode for macOS</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
@@ -541,6 +551,8 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Jul 21, 2017</string>
 		<key>description</key>
+		<string>Better fullscreen button and all windows able to go fullscreen</string>
+		<key>descriptionShort</key>
 		<string>Better fullscreen button and all windows able to go fullscreen</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
@@ -634,6 +646,8 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Nov 12, 2016</string>
 		<key>description</key>
+		<string>Adds a reload all tabs option</string>
+		<key>descriptionShort</key>
 		<string>Adds a reload all tabs option</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
@@ -773,6 +787,8 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Nov 12, 2016</string>
 		<key>description</key>
+		<string>Add vibrancy to most application windows</string>
+		<key>descriptionShort</key>
 		<string>Add vibrancy to most application windows</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
