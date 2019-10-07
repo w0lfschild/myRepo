@@ -37,7 +37,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>package</key>
 		<string>org.w0lf.DarkBoot</string>
 		<key>price</key>
-		<string>Free</string>
+		<string>$0.00</string>
 		<key>size</key>
 		<string>69</string>
 		<key>version</key>
@@ -85,7 +85,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>package</key>
 		<string>com.nateparrott.Flashlight</string>
 		<key>price</key>
-		<string></string>
+		<string>$0.00</string>
 		<key>size</key>
 		<string>69</string>
 		<key>version</key>
@@ -438,7 +438,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>package</key>
 		<string>net.infinite-labs.Afloat</string>
 		<key>price</key>
-		<string>Free</string>
+		<string>$0.00</string>
 		<key>size</key>
 		<string>474036</string>
 		<key>targets</key>
@@ -528,7 +528,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>package</key>
 		<string>com.sky.imessageParity</string>
 		<key>price</key>
-		<string>Free</string>
+		<string>$0.00</string>
 		<key>size</key>
 		<string>67952</string>
 		<key>targets</key>
