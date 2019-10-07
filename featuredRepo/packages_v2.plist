@@ -224,11 +224,11 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>apps</key>
 		<string>Dock</string>
 		<key>author</key>
-		<string></string>
+		<string>Jeremy Legendre</string>
 		<key>compat</key>
 		<string>macOS 10.15+</string>
 		<key>contact</key>
-		<string></string>
+		<string>jslegendre@gmail.com</string>
 		<key>date</key>
 		<string>Sep 19, 2018</string>
 		<key>description</key>
