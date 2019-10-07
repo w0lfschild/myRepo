@@ -15,7 +15,7 @@
 		<key>apps</key>
 		<string>Dark Boot</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.10+</string>
 		<key>contact</key>
@@ -65,7 +65,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>Spotlight</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.10+</string>
 		<key>contact</key>
@@ -113,7 +113,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>Dock</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.10+</string>
 		<key>contact</key>
@@ -157,11 +157,11 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>apps</key>
 		<string>All</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Jul 12, 2018</string>
 		<key>description</key>
@@ -264,11 +264,11 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>apps</key>
 		<string>loginwindow</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Aug 26, 2019</string>
 		<key>description</key>
@@ -310,11 +310,11 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>apps</key>
 		<string>Finder</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.14+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Aug 26, 2019</string>
 		<key>description</key>
@@ -368,11 +368,11 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>apps</key>
 		<string>Messages</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.10+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Feb 03, 2018</string>
 		<key>description</key>
@@ -416,11 +416,11 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Jan 18, 2017</string>
 		<key>description</key>
@@ -506,11 +506,11 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>apps</key>
 		<string>Messages</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>May 29, 2018</string>
 		<key>description</key>
