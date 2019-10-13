@@ -316,7 +316,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Aug 26, 2019</string>
+		<string>Oct 12, 2019</string>
 		<key>description</key>
 		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
 		<key>descriptionShort</key>
@@ -324,7 +324,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/colorfulSidebar9_1.6.1.zip</string>
+		<string>/bundles/colorfulSidebar9_1.7.0.zip</string>
 		<key>name</key>
 		<string>colorfulSidebar</string>
 		<key>package</key>
@@ -347,7 +347,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.6.1</string>
+		<string>1.7.0</string>
 		<key>homepage</key>
 		<string></string>
 		<key>webpage</key>

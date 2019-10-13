@@ -9,11 +9,11 @@
 		<key>author</key>
 		<string>macEnhance</string>
 		<key>compat</key>
-		<string>macOS 10.4+</string>
+		<string>macOS 10.14+</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Aug 26, 2019</string>
+		<string>Oct 12, 2019</string>
 		<key>description</key>
 		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
 		<key>descriptionShort</key>
@@ -21,9 +21,9 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/colorfulSidebar9_1.6.1.zip</string>
+		<string>/bundles/colorfulSidebar9_1.7.0.zip</string>
 		<key>name</key>
-		<string>colorfulSidebar9</string>
+		<string>colorfulSidebar</string>
 		<key>package</key>
 		<string>org.w0lf.colorfulSidebar9</string>
 		<key>size</key>
@@ -44,7 +44,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.6.1</string>
+		<string>1.7.0</string>
 		<key>homepage</key>
 		<string></string>
 		<key>webpage</key>
