@@ -211,7 +211,7 @@
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>May 29, 2018</string>
+		<string>Oct 07, 2018</string>
 		<key>description</key>
 		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
 
@@ -221,7 +221,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cDock_1.2.0.zip</string>
+		<string>/bundles/cDock_3.0.8.zip</string>
 		<key>name</key>
 		<string>cDock 3</string>
 		<key>package</key>
@@ -231,7 +231,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>size</key>
 		<string>69</string>
 		<key>version</key>
-		<string>1.2.0</string>
+		<string>3.0.8</string>
 		<key>webpage</key>
 		<string>https://cdock.macenhance.com/</string>
 		<key>homepage</key>
