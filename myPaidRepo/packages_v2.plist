@@ -13,7 +13,7 @@
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Oct 12, 2019</string>
+		<string>Oct 14, 2019</string>
 		<key>description</key>
 		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
 		<key>descriptionShort</key>
@@ -21,7 +21,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/colorfulSidebar9_1.7.0.zip</string>
+		<string>/bundles/colorfulSidebar9_1.7.1.zip</string>
 		<key>name</key>
 		<string>colorfulSidebar</string>
 		<key>package</key>
@@ -44,7 +44,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.7.0</string>
+		<string>1.7.1</string>
 		<key>homepage</key>
 		<string></string>
 		<key>webpage</key>
