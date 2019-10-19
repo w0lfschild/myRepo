@@ -7,7 +7,7 @@
 		<key>apps</key>
 		<string>Spotlight</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.10+</string>
 		<key>contact</key>
@@ -55,11 +55,11 @@
 		<key>apps</key>
 		<string>Messages</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>May 29, 2018</string>
 		<key>description</key>
@@ -99,11 +99,11 @@
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Jan 18, 2017</string>
 		<key>description</key>
@@ -141,11 +141,11 @@
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
@@ -185,7 +185,7 @@
 		<key>apps</key>
 		<string>Dark Boot</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.10+</string>
 		<key>contact</key>
@@ -235,7 +235,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
@@ -277,11 +277,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Nov 12, 2016</string>
 		<key>description</key>
@@ -321,11 +321,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>Google Chrome</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Feb 04, 2018</string>
 		<key>description</key>
@@ -369,11 +369,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>Notification Center</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
@@ -413,11 +413,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>Dock</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Nov 12, 2016</string>
 		<key>description</key>
@@ -457,11 +457,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>Notification Center</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
@@ -499,11 +499,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
@@ -543,11 +543,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Jul 21, 2017</string>
 		<key>description</key>
@@ -587,11 +587,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>Music</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.10+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Oct 19, 2018</string>
 		<key>description</key>
@@ -638,11 +638,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>Safari</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Nov 12, 2016</string>
 		<key>description</key>
@@ -682,11 +682,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>Spotify</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Aug 21, 2018</string>
 		<key>description</key>
@@ -735,11 +735,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
@@ -779,11 +779,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>macEnhance</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Nov 12, 2016</string>
 		<key>description</key>
