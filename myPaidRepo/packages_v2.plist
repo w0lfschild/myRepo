@@ -113,7 +113,7 @@
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Jan 07, 2018</string>
+		<string>Oct 20, 2019</string>
 		<key>description</key>
 		<string>Customizes the volume, screen and keyboard brightness HUDs to be minimal and unobtrusive, like they should be.</string>
 		<key>descriptionShort</key>
@@ -121,7 +121,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cleanHUD_0.6.1.zip</string>
+		<string>/bundles/cleanHUD_0.7.2.zip</string>
 		<key>name</key>
 		<string>cleanHUD</string>
 		<key>package</key>
@@ -136,7 +136,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.6.1</string>
+		<string>0.7.2</string>
 		<key>webpage</key>
 		<string></string>
 		<key>homepage</key>

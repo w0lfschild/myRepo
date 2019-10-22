@@ -270,7 +270,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Aug 26, 2019</string>
+		<string>Oct 20, 2019</string>
 		<key>description</key>
 		<string>A beatiful and minimal volume, screen and keyboard brightness HUD. Keeps annoying pop-ups unobtrusive, like they should be.</string>
 		<key>descriptionShort</key>
@@ -278,7 +278,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cleanHUD_0.6.1.zip</string>
+		<string>/bundles/cleanHUD_0.7.2.zip</string>
 		<key>name</key>
 		<string>cleanHUD</string>
 		<key>package</key>
@@ -293,7 +293,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.6.1</string>
+		<string>0.7.2</string>
 		<key>webpage</key>
 		<string></string>
 		<key>homepage</key>
