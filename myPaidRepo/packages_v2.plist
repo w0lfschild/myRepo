@@ -2,6 +2,108 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>org.w0lf.cDock</key>
+	<dict>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Oct 07, 2019</string>
+		<key>description</key>
+		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
+
+There are many ways to configure cDock as you wish. Give it a go and find out!</string>
+		<key>descriptionShort</key>
+		<string>Customize your dock appearance</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cDock_3.0.8.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>name</key>
+		<string>cDock 3</string>
+		<key>package</key>
+		<string>org.w0lf.cDock-GUI</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$4.99</string>
+		<key>productID</key>
+		<string>520974</string>
+		<key>size</key>
+		<integer>14695553</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>3.0.8</string>
+		<key>webpage</key>
+		<string>https://cdock.macenhance.com/</string>
+	</dict>
+	<key>org.w0lf.cleanHUD</key>
+	<dict>
+		<key>apps</key>
+		<string>loginwindow</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Oct 21, 2019</string>
+		<key>description</key>
+		<string>Customizes the volume, screen and keyboard brightness HUDs to be minimal and unobtrusive, like they should be.</string>
+		<key>descriptionShort</key>
+		<string>Minimal HUDs </string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cleanHUD_0.7.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>cleanHUD</string>
+		<key>package</key>
+		<string>org.w0lf.cleanHUD</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>535217</string>
+		<key>size</key>
+		<integer>62553</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.loginwindow</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.7.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>org.w0lf.colorfulSidebar9</key>
 	<dict>
 		<key>apps</key>
@@ -22,12 +124,22 @@
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
 		<string>/bundles/colorfulSidebar9_1.7.1.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
 		<key>name</key>
 		<string>colorfulSidebar</string>
 		<key>package</key>
 		<string>org.w0lf.colorfulSidebar9</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>535218</string>
 		<key>size</key>
-		<string>26784</string>
+		<integer>34690</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -45,108 +157,8 @@
 		</array>
 		<key>version</key>
 		<string>1.7.1</string>
-		<key>homepage</key>
-		<string></string>
 		<key>webpage</key>
 		<string></string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$1.99</string>
-		<key>productID</key>
-		<string>535218</string>
-	</dict>
-	<key>org.w0lf.whosTyping</key>
-	<dict>
-		<key>apps</key>
-		<string>Messages</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Feb 03, 2018</string>
-		<key>description</key>
-		<string>Adds an item to the statusbar which displays iMessage typing and read receipts.</string>
-		<key>descriptionShort</key>
-		<string>iMessage typing / read indicator the status bar</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/whosTyping_0.0.2.zip</string>
-		<key>name</key>
-		<string>whosTyping</string>
-		<key>package</key>
-		<string>org.w0lf.whosTyping</string>
-		<key>size</key>
-		<string>181557</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.iChat</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.0.2</string>
-		<key>homepage</key>
-		<string></string>
-		<key>webpage</key>
-		<string></string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$0.99</string>
-		<key>productID</key>
-		<string>535221</string>
-	</dict>
-	<key>org.w0lf.cleanHUD</key>
-	<dict>
-		<key>apps</key>
-		<string>loginwindow</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Oct 20, 2019</string>
-		<key>description</key>
-		<string>Customizes the volume, screen and keyboard brightness HUDs to be minimal and unobtrusive, like they should be.</string>
-		<key>descriptionShort</key>
-		<string>Minimal HUDs </string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/cleanHUD_0.7.2.zip</string>
-		<key>name</key>
-		<string>cleanHUD</string>
-		<key>package</key>
-		<string>org.w0lf.cleanHUD</string>
-		<key>size</key>
-		<string>50851</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.loginwindow</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.7.2</string>
-		<key>webpage</key>
-		<string></string>
-		<key>homepage</key>
-		<string></string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$1.99</string>
-		<key>productID</key>
-		<string>535217</string>
 	</dict>
 	<key>org.w0lf.moreMenu</key>
 	<dict>
@@ -168,20 +180,22 @@
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
 		<string>/bundles/moreMenu_0.3.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
 		<key>homepage</key>
 		<string></string>
-		<key>payed</key>
-		<true/>
 		<key>name</key>
 		<string>moreMenu</string>
 		<key>package</key>
 		<string>org.w0lf.moreMenu</string>
+		<key>payed</key>
+		<true/>
 		<key>price</key>
 		<string>$1.99</string>
 		<key>productID</key>
 		<string>534450</string>
 		<key>size</key>
-		<string>21196</string>
+		<integer>21196</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -194,16 +208,10 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
-	<key>org.w0lf.cDock</key>
+	<key>org.w0lf.whosTyping</key>
 	<dict>
-		<key>payed</key>
-		<true/>
-		<key>productID</key>
-		<string>520974</string>
-		<key>type</key>
-		<string>app</string>
 		<key>apps</key>
-		<string>Dock</string>
+		<string>Messages</string>
 		<key>author</key>
 		<string>macEnhance</string>
 		<key>compat</key>
@@ -211,38 +219,42 @@
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Oct 07, 2018</string>
+		<string>Feb 03, 2018</string>
 		<key>description</key>
-		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
-
-There are many ways to configure cDock as you wish. Give it a go and find out!</string>
+		<string>Adds an item to the statusbar which displays iMessage typing and read receipts.</string>
 		<key>descriptionShort</key>
-		<string>Customize your dock appearance</string>
+		<string>iMessage typing / read indicator the status bar</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cDock_3.0.8.zip</string>
-		<key>name</key>
-		<string>cDock 3</string>
-		<key>package</key>
-		<string>org.w0lf.cDock-GUI</string>
-		<key>price</key>
-		<string>$4.99</string>
-		<key>size</key>
-		<string>69</string>
-		<key>version</key>
-		<string>3.0.8</string>
-		<key>webpage</key>
-		<string>https://cdock.macenhance.com/</string>
+		<string>/bundles/whosTyping_0.0.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
 		<key>homepage</key>
-		<string>https://cdock.macenhance.com/</string>
+		<string></string>
+		<key>name</key>
+		<string>whosTyping</string>
+		<key>package</key>
+		<string>org.w0lf.whosTyping</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$0.99</string>
+		<key>productID</key>
+		<string>535221</string>
+		<key>size</key>
+		<integer>181557</integer>
 		<key>targets</key>
 		<array>
 			<dict>
 				<key>BundleIdentifier</key>
-				<string>com.apple.dock</string>
+				<string>com.apple.iChat</string>
 			</dict>
 		</array>
+		<key>version</key>
+		<string>0.0.2</string>
+		<key>webpage</key>
+		<string></string>
 	</dict>
 </dict>
 </plist>

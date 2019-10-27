@@ -2,465 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>org.w0lf.DarkBoot</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/org.w0lf.DarkBoot/icon.png</string>
-		<key>payed</key>
-		<false/>
-		<key>productID</key>
-		<string></string>
-		<key>type</key>
-		<string>app</string>
-		<key>apps</key>
-		<string>Dark Boot</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Sep 29, 2019</string>
-		<key>description</key>
-		<string>Dark Boot gives you control over how your mac looks from the lock screen and when starting up. There are tons of options for customization so your mac can look just the way you want it to. Dark Boot is designed to make theming the Boot Screen, Login Screen and Lock Screen easy and robust on macOS 10.9 and up.
-
-There are many ways to configure Dark Boot as you wish. Give it a go and find out!</string>
-		<key>descriptionShort</key>
-		<string>Make your Macs boot and login screens pop</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/DarkBoot_6.0.3.zip</string>
-		<key>name</key>
-		<string>Dark Boot</string>
-		<key>package</key>
-		<string>org.w0lf.DarkBoot</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>69</string>
-		<key>version</key>
-		<string>6.0.3</string>
-		<key>homepage</key>
-		<string>https://cdock.macenhance.com/</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>org.w0lf.DarkBoot</string>
-			</dict>
-		</array>
-	</dict>
-	<key>com.nateparrott.Flashlight</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/com.nateparrott.Flashlight/icon.png</string>
-		<key>payed</key>
-		<false/>
-		<key>productID</key>
-		<string></string>
-		<key>type</key>
-		<string>app</string>
-		<key>apps</key>
-		<string>Spotlight</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Sep 29, 2019</string>
-		<key>description</key>
-		<string>Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results.</string>
-		<key>descriptionShort</key>
-		<string>Add plugins to Spotlight 🔍</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/Flashlight_1.1.0.zip</string>
-		<key>name</key>
-		<string>Flashlight</string>
-		<key>package</key>
-		<string>com.nateparrott.Flashlight</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>69</string>
-		<key>version</key>
-		<string>1.1.0</string>
-		<key>homepage</key>
-		<string>https://cdock.macenhance.com/</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Spotlight</string>
-			</dict>
-		</array>
-	</dict>
-	<key>org.w0lf.cDock</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/org.w0lf.cDock-GUI/icon.png</string>
-		<key>payed</key>
-		<true/>
-		<key>productID</key>
-		<string>520974</string>
-		<key>type</key>
-		<string>app</string>
-		<key>apps</key>
-		<string>Dock</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Oct 07, 2018</string>
-		<key>description</key>
-		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
-
-There are many ways to configure cDock as you wish. Give it a go and find out!</string>
-		<key>descriptionShort</key>
-		<string>Customize your dock appearance</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/cDock_3.0.8.zip</string>
-		<key>name</key>
-		<string>cDock 3</string>
-		<key>package</key>
-		<string>org.w0lf.cDock-GUI</string>
-		<key>price</key>
-		<string>$4.99</string>
-		<key>size</key>
-		<string>69</string>
-		<key>version</key>
-		<string>3.0.8</string>
-		<key>homepage</key>
-		<string>https://cdock.macenhance.com/</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.dock</string>
-			</dict>
-		</array>
-	</dict>
-	<key>org.w0lf.moreMenu</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/org.w0lf.moreMenu/icon.png</string>
-		<key>apps</key>
-		<string>All</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Jul 12, 2018</string>
-		<key>description</key>
-		<string>moreMenu allows you to shrink the menubar of the running application
-
-&quot;It&apos;s like Bartender but for the left side!&quot; - Craig Federighi
-
-&quot;⭐️⭐️⭐️⭐️⭐️&quot; - Tim Cook</string>
-		<key>descriptionShort</key>
-		<string>Shrink the menubar of the running application</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/moreMenu_0.3.2.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>payed</key>
-		<true/>
-		<key>name</key>
-		<string>moreMenu</string>
-		<key>package</key>
-		<string>org.w0lf.moreMenu</string>
-		<key>price</key>
-		<string>$1.99</string>
-		<key>productID</key>
-		<string>534450</string>
-		<key>size</key>
-		<string>21196</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.3.2</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>com.github.jslegendre.LiftOff</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/com.github.jslegendre.LiftOff/icon.png</string>
-		<key>payed</key>
-		<true/>
-		<key>paddle</key>
-		<dict>
-			<key>apikey</key>
-			<string>508205c7de527e9cc702cd1b1e5e2733</string>
-			<key>vendorid</key>
-			<string>102003</string>
-			<key>productid</key>
-			<string>570933</string>
-		</dict>
-		<key>productID</key>
-		<string>570933</string>
-		<key>type</key>
-		<string>Bundle</string>
-		<key>apps</key>
-		<string>Dock</string>
-		<key>author</key>
-		<string>Jeremy Legendre</string>
-		<key>compat</key>
-		<string>macOS 10.15+</string>
-		<key>contact</key>
-		<string>jslegendre@gmail.com</string>
-		<key>date</key>
-		<string>Sep 19, 2018</string>
-		<key>description</key>
-		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
-		<key>descriptionShort</key>
-		<string>Overlay Launchpad on the Desktop</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/LiftOff_0.0.2885.zip</string>
-		<key>name</key>
-		<string>LiftOff</string>
-		<key>package</key>
-		<string>com.github.jslegendre.LiftOff</string>
-		<key>price</key>
-		<string>$2.99</string>
-		<key>size</key>
-		<string>1234</string>
-		<key>version</key>
-		<string>0.0.2885</string>
-		<key>homepage</key>
-		<string>https://cdock.macenhance.com/</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.dock</string>
-			</dict>
-		</array>
-	</dict>
-	<key>org.w0lf.cleanHUD</key>
-	<dict>
-		<key>apps</key>
-		<string>loginwindow</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Oct 20, 2019</string>
-		<key>description</key>
-		<string>A beatiful and minimal volume, screen and keyboard brightness HUD. Keeps annoying pop-ups unobtrusive, like they should be.</string>
-		<key>descriptionShort</key>
-		<string>Minimal HUDs </string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/cleanHUD_0.7.2.zip</string>
-		<key>name</key>
-		<string>cleanHUD</string>
-		<key>package</key>
-		<string>org.w0lf.cleanHUD</string>
-		<key>size</key>
-		<string>50851</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.loginwindow</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.7.2</string>
-		<key>webpage</key>
-		<string></string>
-		<key>homepage</key>
-		<string></string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$1.99</string>
-		<key>productID</key>
-		<string>535217</string>
-	</dict>
-	<key>org.w0lf.colorfulSidebar9</key>
-	<dict>
-		<key>apps</key>
-		<string>Finder</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.14+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Oct 14, 2019</string>
-		<key>description</key>
-		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
-		<key>descriptionShort</key>
-		<string>Colorful Finder sidebar</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/colorfulSidebar9_1.7.1.zip</string>
-		<key>name</key>
-		<string>colorfulSidebar</string>
-		<key>package</key>
-		<string>org.w0lf.colorfulSidebar9</string>
-		<key>size</key>
-		<string>26784</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.security.pboxd</string>
-			</dict>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.appkit.xpc.openAndSavePanelService</string>
-			</dict>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.finder</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.7.1</string>
-		<key>homepage</key>
-		<string></string>
-		<key>webpage</key>
-		<string></string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$1.99</string>
-		<key>productID</key>
-		<string>535218</string>
-	</dict>
-	<key>org.w0lf.whosTyping</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/org.w0lf.whosTyping/icon.png</string>
-		<key>type</key>
-		<string>bundle</string>
-		<key>apps</key>
-		<string>Messages</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Feb 03, 2018</string>
-		<key>description</key>
-		<string>Adds an item to the statusbar which displays iMessage typing and read receipts.</string>
-		<key>descriptionShort</key>
-		<string>iMessage typing / read indicator the status bar</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/whosTyping_0.0.2.zip</string>
-		<key>name</key>
-		<string>whosTyping</string>
-		<key>package</key>
-		<string>org.w0lf.whosTyping</string>
-		<key>size</key>
-		<string>181557</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.iChat</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.0.2</string>
-		<key>homepage</key>
-		<string></string>
-		<key>webpage</key>
-		<string></string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$0.99</string>
-		<key>productID</key>
-		<string>535221</string>
-	</dict>
-	<key>net.infinite-labs.Afloat</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/net.infinite-labs.Afloat/icon.png</string>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Jan 18, 2017</string>
-		<key>description</key>
-		<string>Adds useful window management commands to applications</string>
-		<key>descriptionShort</key>
-		<string>Adds useful window management commands to applications</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/Afloat_2.5.2.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>Afloat</string>
-		<key>package</key>
-		<string>net.infinite-labs.Afloat</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>474036</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>2.5.2</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
 	<key>com.alexbeals.SpacesRenamer</key>
 	<dict>
-		<key>icon</key>
-		<string>/images/com.alexbeals.SpacesRenamer/icon.png</string>
-		<key>payed</key>
-		<false/>
-		<key>type</key>
-		<string>app</string>
 		<key>apps</key>
 		<string>Dock</string>
 		<key>author</key>
@@ -469,6 +12,8 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<string>macOS 10.10+</string>
 		<key>contact</key>
 		<string></string>
+		<key>customIcon</key>
+		<true/>
 		<key>date</key>
 		<string>Aug 05, 2019</string>
 		<key>description</key>
@@ -479,16 +24,22 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<string></string>
 		<key>filename</key>
 		<string>/bundles/spaces-renamer_1.7.1.zip</string>
+		<key>hasPreview</key>
+		<true/>
 		<key>homepage</key>
 		<string>https://alexbeals.com/</string>
+		<key>icon</key>
+		<string>/images/com.alexbeals.SpacesRenamer/icon.png</string>
 		<key>name</key>
 		<string>spaces-renamer</string>
 		<key>package</key>
 		<string>com.alexbeals.SpacesRenamer</string>
+		<key>payed</key>
+		<false/>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
-		<string>22541</string>
+		<integer>7991083</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -496,10 +47,125 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 				<string>com.apple.dock</string>
 			</dict>
 		</array>
+		<key>type</key>
+		<string>app</string>
 		<key>version</key>
 		<string>1.7.1</string>
 		<key>webpage</key>
 		<string>https://alexbeals.com/</string>
+	</dict>
+	<key>com.github.jslegendre.LiftOff</key>
+	<dict>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>Jeremy Legendre</string>
+		<key>compat</key>
+		<string>macOS 10.15+</string>
+		<key>contact</key>
+		<string>jslegendre@gmail.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Sep 19, 2019</string>
+		<key>description</key>
+		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
+		<key>descriptionShort</key>
+		<string>Overlay Launchpad on the Desktop</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/LiftOff_0.0.2885.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>icon</key>
+		<string>/images/com.github.jslegendre.LiftOff/icon.png</string>
+		<key>name</key>
+		<string>LiftOff</string>
+		<key>package</key>
+		<string>com.github.jslegendre.LiftOff</string>
+		<key>paddle</key>
+		<dict>
+			<key>apikey</key>
+			<string>508205c7de527e9cc702cd1b1e5e2733</string>
+			<key>productid</key>
+			<string>570933</string>
+			<key>vendorid</key>
+			<string>102003</string>
+		</dict>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$2.99</string>
+		<key>productID</key>
+		<string>570933</string>
+		<key>size</key>
+		<integer>1223986</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>Bundle</string>
+		<key>version</key>
+		<string>0.0.2885</string>
+	</dict>
+	<key>com.nateparrott.Flashlight</key>
+	<dict>
+		<key>apps</key>
+		<string>Spotlight</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Nov 03, 2018</string>
+		<key>description</key>
+		<string>Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results.</string>
+		<key>descriptionShort</key>
+		<string>Add plugins to Spotlight 🔍</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/Flashlight_1.1.0.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>icon</key>
+		<string>/images/com.nateparrott.Flashlight/icon.png</string>
+		<key>name</key>
+		<string>Flashlight</string>
+		<key>package</key>
+		<string>com.nateparrott.Flashlight</string>
+		<key>payed</key>
+		<false/>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>productID</key>
+		<string></string>
+		<key>size</key>
+		<integer>9559013</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Spotlight</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>1.1.0</string>
 	</dict>
 	<key>com.sky.imessageParity</key>
 	<dict>
@@ -521,6 +187,8 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
 		<string>/bundles/iMessageParity_0.1.3.zip</string>
+		<key>hasPreview</key>
+		<true/>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -530,7 +198,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
-		<string>67952</string>
+		<integer>67952</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -540,6 +208,376 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		</array>
 		<key>version</key>
 		<string>0.1.3</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>net.infinite-labs.Afloat</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Jan 16, 2017</string>
+		<key>description</key>
+		<string>Adds useful window management commands to applications</string>
+		<key>descriptionShort</key>
+		<string>Adds useful window management commands to applications</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/Afloat_2.5.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>icon</key>
+		<string>/images/net.infinite-labs.Afloat/icon.png</string>
+		<key>name</key>
+		<string>Afloat</string>
+		<key>package</key>
+		<string>net.infinite-labs.Afloat</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>474036</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>2.5.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.DarkBoot</key>
+	<dict>
+		<key>apps</key>
+		<string>Dark Boot</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>May 29, 2018</string>
+		<key>description</key>
+		<string>Dark Boot gives you control over how your mac looks from the lock screen and when starting up. There are tons of options for customization so your mac can look just the way you want it to. Dark Boot is designed to make theming the Boot Screen, Login Screen and Lock Screen easy and robust on macOS 10.9 and up.
+
+There are many ways to configure Dark Boot as you wish. Give it a go and find out!</string>
+		<key>descriptionShort</key>
+		<string>Make your Macs boot and login screens pop</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/DarkBoot_6.0.3.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>icon</key>
+		<string>/images/org.w0lf.DarkBoot/icon.png</string>
+		<key>name</key>
+		<string>Dark Boot</string>
+		<key>package</key>
+		<string>org.w0lf.DarkBoot</string>
+		<key>payed</key>
+		<false/>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>productID</key>
+		<string></string>
+		<key>size</key>
+		<integer>6143359</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>org.w0lf.DarkBoot</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>6.0.3</string>
+	</dict>
+	<key>org.w0lf.cDock</key>
+	<dict>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Oct 07, 2019</string>
+		<key>description</key>
+		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
+
+There are many ways to configure cDock as you wish. Give it a go and find out!</string>
+		<key>descriptionShort</key>
+		<string>Customize your dock appearance</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cDock_3.0.8.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>icon</key>
+		<string>/images/org.w0lf.cDock-GUI/icon.png</string>
+		<key>name</key>
+		<string>cDock 3</string>
+		<key>package</key>
+		<string>org.w0lf.cDock-GUI</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$4.99</string>
+		<key>productID</key>
+		<string>520974</string>
+		<key>size</key>
+		<integer>14695553</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>3.0.8</string>
+	</dict>
+	<key>org.w0lf.cleanHUD</key>
+	<dict>
+		<key>apps</key>
+		<string>loginwindow</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Oct 21, 2019</string>
+		<key>description</key>
+		<string>A beatiful and minimal volume, screen and keyboard brightness HUD. Keeps annoying pop-ups unobtrusive, like they should be.</string>
+		<key>descriptionShort</key>
+		<string>Minimal HUDs </string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cleanHUD_0.7.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>cleanHUD</string>
+		<key>package</key>
+		<string>org.w0lf.cleanHUD</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>535217</string>
+		<key>size</key>
+		<integer>62553</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.loginwindow</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.7.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.colorfulSidebar9</key>
+	<dict>
+		<key>apps</key>
+		<string>Finder</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.14+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Oct 14, 2019</string>
+		<key>description</key>
+		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
+		<key>descriptionShort</key>
+		<string>Colorful Finder sidebar</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/colorfulSidebar9_1.7.1.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>colorfulSidebar</string>
+		<key>package</key>
+		<string>org.w0lf.colorfulSidebar9</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>535218</string>
+		<key>size</key>
+		<integer>34690</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.security.pboxd</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.appkit.xpc.openAndSavePanelService</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.finder</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.7.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.moreMenu</key>
+	<dict>
+		<key>apps</key>
+		<string>All</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Jul 12, 2018</string>
+		<key>description</key>
+		<string>moreMenu allows you to shrink the menubar of the running application
+
+"It's like Bartender but for the left side!" - Craig Federighi
+
+"⭐️⭐️⭐️⭐️⭐️" - Tim Cook</string>
+		<key>descriptionShort</key>
+		<string>Shrink the menubar of the running application</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/moreMenu_0.3.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>icon</key>
+		<string>/images/org.w0lf.moreMenu/icon.png</string>
+		<key>name</key>
+		<string>moreMenu</string>
+		<key>package</key>
+		<string>org.w0lf.moreMenu</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>534450</string>
+		<key>size</key>
+		<integer>21196</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.3.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.w0lf.whosTyping</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Feb 03, 2018</string>
+		<key>description</key>
+		<string>Adds an item to the statusbar which displays iMessage typing and read receipts.</string>
+		<key>descriptionShort</key>
+		<string>iMessage typing / read indicator the status bar</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/whosTyping_0.0.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>icon</key>
+		<string>/images/org.w0lf.whosTyping/icon.png</string>
+		<key>name</key>
+		<string>whosTyping</string>
+		<key>package</key>
+		<string>org.w0lf.whosTyping</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$0.99</string>
+		<key>productID</key>
+		<string>535221</string>
+		<key>size</key>
+		<integer>181557</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>bundle</string>
+		<key>version</key>
+		<string>0.0.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
