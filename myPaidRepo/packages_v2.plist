@@ -144,15 +144,15 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<array>
 			<dict>
 				<key>BundleIdentifier</key>
+				<string>com.apple.finder</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
 				<string>com.apple.security.pboxd</string>
 			</dict>
 			<dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.appkit.xpc.openAndSavePanelService</string>
-			</dict>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.finder</string>
 			</dict>
 		</array>
 		<key>version</key>

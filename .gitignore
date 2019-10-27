@@ -3,6 +3,7 @@
 build/
 DerivedData/
 testRepo/
+macEnhance/
 
 ## Various settings
 *.pbxuser

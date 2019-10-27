@@ -455,15 +455,15 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<array>
 			<dict>
 				<key>BundleIdentifier</key>
+				<string>com.apple.finder</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
 				<string>com.apple.security.pboxd</string>
 			</dict>
 			<dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.appkit.xpc.openAndSavePanelService</string>
-			</dict>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.finder</string>
 			</dict>
 		</array>
 		<key>version</key>
@@ -488,9 +488,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>description</key>
 		<string>moreMenu allows you to shrink the menubar of the running application
 
-"It's like Bartender but for the left side!" - Craig Federighi
+&quot;It&apos;s like Bartender but for the left side!&quot; - Craig Federighi
 
-"⭐️⭐️⭐️⭐️⭐️" - Tim Cook</string>
+&quot;⭐️⭐️⭐️⭐️⭐️&quot; - Tim Cook</string>
 		<key>descriptionShort</key>
 		<string>Shrink the menubar of the running application</string>
 		<key>donate</key>
