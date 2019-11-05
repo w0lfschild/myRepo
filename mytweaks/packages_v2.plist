@@ -769,7 +769,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Apr 01, 2017</string>
+		<string>Nov 04, 2019</string>
 		<key>description</key>
 		<string>winBuddy is a SIMBL plugin that removes the shadow around windows in every application window on macOS it also allows for hiding the menubar and dock and placing a border around windows.</string>
 		<key>descriptionShort</key>
@@ -777,7 +777,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/winBuddy_0.3.1.zip</string>
+		<string>/bundles/winBuddy_0.3.5.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -789,7 +789,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<integer>23768</integer>
+		<integer>29251</integer>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -800,7 +800,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.3.1</string>
+		<string>0.3.5</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
