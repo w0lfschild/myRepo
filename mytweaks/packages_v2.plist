@@ -2,6 +2,51 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.macenhance.ColorTracks</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Nov 13, 2019</string>
+		<key>description</key>
+		<string>ColorTracks is a MacForge plugin that adds some features to Apples Now Playing Widget.
+Color match controls to albumn art
+Color match backgorund to aldumn art
+Scrolling track titles</string>
+		<key>descriptionShort</key>
+		<string>Add some color to the Now playing widget</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/ColorTracks_1.0.3.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>ColorTracks</string>
+		<key>package</key>
+		<string>com.macenhance.ColorTracks</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>31240</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple..NowPlayingWidgetContainer</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0.3</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>com.nateparrott.Flashlight</key>
 	<dict>
 		<key>apps</key>
