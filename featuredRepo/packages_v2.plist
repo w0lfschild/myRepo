@@ -2,6 +2,69 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>app.todeska.Todeska</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Jeremy Legendre</string>
+		<key>compat</key>
+		<string>macOS 10.13+</string>
+		<key>contact</key>
+		<string>jslegendre@gmail.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Dec 07, 2019</string>
+		<key>description</key>
+		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   "What Dashboard should have become." -zombi3gee</string>
+		<key>descriptionShort</key>
+		<string>The First and Only App to Transform Today Extensions into Desktop Widgets</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/Todeska_1.3.6.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://www.todeska.app/</string>
+		<key>icon</key>
+		<string>/images/app.todeska.Todeska/icon.png</string>
+		<key>name</key>
+		<string>Todeska</string>
+		<key>package</key>
+		<string>app.todeska.Todeska</string>
+		<key>paddle</key>
+		<dict>
+			<key>apikey</key>
+			<string>508205c7de527e9cc702cd1b1e5e2733</string>
+			<key>productid</key>
+			<string>573452</string>
+			<key>vendorid</key>
+			<string>102003</string>
+		</dict>
+		<key>payed</key>
+		<false/>
+		<key>price</key>
+		<string>Trial</string>
+		<key>productID</key>
+		<string>573452</string>
+		<key>size</key>
+		<integer>8325840</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.notificationcenterui</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>1.3.6</string>
+		<key>webpage</key>
+		<string>https://www.todeska.app/</string>
+	</dict>
 	<key>com.alexbeals.SpacesRenamer</key>
 	<dict>
 		<key>apps</key>
@@ -53,6 +116,50 @@
 		<string>1.7.1</string>
 		<key>webpage</key>
 		<string>https://alexbeals.com/</string>
+	</dict>
+	<key>com.github.jslegendre.AfloatX</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Jeremy Legendre</string>
+		<key>compat</key>
+		<string>macOS 10.13+</string>
+		<key>contact</key>
+		<string>jslegendre@gmail.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Dec 08, 2019</string>
+		<key>description</key>
+		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to add some additional window management features.</string>
+		<key>descriptionShort</key>
+		<string>An alternative to Afloat that lives in the dock icon menu </string>
+		<key>filename</key>
+		<string>/bundles/AfloatX_1.2.9.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://github.com/jslegendre/AfloatX</string>
+		<key>name</key>
+		<string>AfloatX</string>
+		<key>package</key>
+		<string>com.github.jslegendre.AfloatX</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>344960</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.2.9</string>
+		<key>webpage</key>
+		<string>https://github.com/jslegendre/AfloatX</string>
 	</dict>
 	<key>com.github.jslegendre.LiftOff</key>
 	<dict>
@@ -208,54 +315,6 @@
 		</array>
 		<key>version</key>
 		<string>0.1.3</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>net.infinite-labs.Afloat</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>customIcon</key>
-		<true/>
-		<key>date</key>
-		<string>Jan 16, 2017</string>
-		<key>description</key>
-		<string>Adds useful window management commands to applications</string>
-		<key>descriptionShort</key>
-		<string>Adds useful window management commands to applications</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/Afloat_2.5.2.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string></string>
-		<key>icon</key>
-		<string>/images/net.infinite-labs.Afloat/icon.png</string>
-		<key>name</key>
-		<string>Afloat</string>
-		<key>package</key>
-		<string>net.infinite-labs.Afloat</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<integer>474036</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>2.5.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
