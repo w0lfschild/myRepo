@@ -141,6 +141,8 @@
 		<true/>
 		<key>homepage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
+		<key>icon</key>
+		<string>/images/com.github.jslegendre.AfloatX/icon.png</string>
 		<key>name</key>
 		<string>AfloatX</string>
 		<key>package</key>
