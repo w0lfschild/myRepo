@@ -256,8 +256,6 @@
 		<string>com.nateparrott.Flashlight</string>
 		<key>price</key>
 		<string>$0.00</string>
-		<key>productID</key>
-		<string></string>
 		<key>size</key>
 		<integer>9559013</integer>
 		<key>targets</key>
@@ -352,8 +350,6 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<string>org.w0lf.DarkBoot</string>
 		<key>price</key>
 		<string>$0.00</string>
-		<key>productID</key>
-		<string></string>
 		<key>size</key>
 		<integer>6143359</integer>
 		<key>targets</key>
