@@ -17,7 +17,7 @@
 		<key>date</key>
 		<string>Dec 07, 2019</string>
 		<key>description</key>
-		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   "What Dashboard should have become." -zombi3gee</string>
+		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   &quot;What Dashboard should have become.&quot; -zombi3gee</string>
 		<key>descriptionShort</key>
 		<string>The First and Only App to Transform Today Extensions into Desktop Widgets</string>
 		<key>donate</key>
@@ -43,8 +43,6 @@
 			<key>vendorid</key>
 			<string>102003</string>
 		</dict>
-		<key>payed</key>
-		<false/>
 		<key>price</key>
 		<string>Trial</string>
 		<key>productID</key>
@@ -256,8 +254,6 @@
 		<string>Flashlight</string>
 		<key>package</key>
 		<string>com.nateparrott.Flashlight</string>
-		<key>payed</key>
-		<false/>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>productID</key>
@@ -354,8 +350,6 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<string>Dark Boot</string>
 		<key>package</key>
 		<string>org.w0lf.DarkBoot</string>
-		<key>payed</key>
-		<false/>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>productID</key>
@@ -549,9 +543,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>description</key>
 		<string>moreMenu allows you to shrink the menubar of the running application
 
-"It's like Bartender but for the left side!" - Craig Federighi
+&quot;It&apos;s like Bartender but for the left side!&quot; - Craig Federighi
 
-"⭐️⭐️⭐️⭐️⭐️" - Tim Cook</string>
+&quot;⭐️⭐️⭐️⭐️⭐️&quot; - Tim Cook</string>
 		<key>descriptionShort</key>
 		<string>Shrink the menubar of the running application</string>
 		<key>donate</key>
