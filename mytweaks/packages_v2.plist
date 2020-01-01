@@ -60,7 +60,7 @@ Scrolling track titles</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Nov 03, 2018</string>
+		<string>Dec 31, 2019</string>
 		<key>description</key>
 		<string>Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results.</string>
 		<key>descriptionShort</key>
@@ -68,7 +68,7 @@ Scrolling track titles</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/Flashlight_1.1.0.zip</string>
+		<string>/bundles/Flashlight_1.2.0.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -83,10 +83,8 @@ Scrolling track titles</string>
 		<false/>
 		<key>price</key>
 		<string></string>
-		<key>productID</key>
-		<string></string>
 		<key>size</key>
-		<integer>9559013</integer>
+		<integer>3273759</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -97,7 +95,7 @@ Scrolling track titles</string>
 		<key>type</key>
 		<string>app</string>
 		<key>version</key>
-		<string>1.1.0</string>
+		<string>1.2.0</string>
 	</dict>
 	<key>com.sky.imessageParity</key>
 	<dict>

@@ -17,7 +17,7 @@
 		<key>date</key>
 		<string>Dec 07, 2019</string>
 		<key>description</key>
-		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   &quot;What Dashboard should have become.&quot; -zombi3gee</string>
+		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   "What Dashboard should have become." -zombi3gee</string>
 		<key>descriptionShort</key>
 		<string>The First and Only App to Transform Today Extensions into Desktop Widgets</string>
 		<key>donate</key>
@@ -235,7 +235,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Nov 03, 2018</string>
+		<string>Dec 31, 2019</string>
 		<key>description</key>
 		<string>Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results.</string>
 		<key>descriptionShort</key>
@@ -243,7 +243,7 @@
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/Flashlight_1.1.0.zip</string>
+		<string>/bundles/Flashlight_1.2.0.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -257,7 +257,7 @@
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
-		<integer>9559013</integer>
+		<integer>3273759</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -268,7 +268,7 @@
 		<key>type</key>
 		<string>app</string>
 		<key>version</key>
-		<string>1.1.0</string>
+		<string>1.2.0</string>
 	</dict>
 	<key>com.sky.imessageParity</key>
 	<dict>
@@ -539,9 +539,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>description</key>
 		<string>moreMenu allows you to shrink the menubar of the running application
 
-&quot;It&apos;s like Bartender but for the left side!&quot; - Craig Federighi
+"It's like Bartender but for the left side!" - Craig Federighi
 
-&quot;⭐️⭐️⭐️⭐️⭐️&quot; - Tim Cook</string>
+"⭐️⭐️⭐️⭐️⭐️" - Tim Cook</string>
 		<key>descriptionShort</key>
 		<string>Shrink the menubar of the running application</string>
 		<key>donate</key>
