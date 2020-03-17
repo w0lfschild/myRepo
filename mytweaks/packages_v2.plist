@@ -15,9 +15,9 @@
 		<key>date</key>
 		<string>Mar 17, 2020</string>
 		<key>description</key>
-		<string></string>
+		<string>ColorMenu is a MacForge plugin that makes your Statusbar Items match the system accent color.</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>Brings color to your Statusbar Items!</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -104,9 +104,15 @@ Scrolling track titles</string>
 		<key>date</key>
 		<string>Mar 17, 2020</string>
 		<key>description</key>
-		<string></string>
+		<string>podcastsPlus is a MacForge plugin that adds some features to the Spotify desktop player
+Change the dock icon to the now playing track art
+Add progress bar to dock icon
+Add Play/Pause, Next, Previous and Seek options to dock menu
+Add Volume control to dock menu
+Restart Podcasts
+Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>Adds a few cool features to the new Podcasts app on macOS 10.15</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -127,7 +133,7 @@ Scrolling track titles</string>
 		<array>
 			<dict>
 				<key>BundleIdentifier</key>
-				<string>*</string>
+				<string>com.apple.podcasts</string>
 			</dict>
 		</array>
 		<key>version</key>
@@ -290,9 +296,9 @@ Scrolling track titles</string>
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -388,7 +394,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 22, 2019</string>
 		<key>description</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>descriptionShort</key>
 		<string>Load F-Script into all applications</string>
 		<key>donate</key>
@@ -524,9 +530,9 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
-		<string>A simple plugin that adds "Clear All" button to the bottom of the notification center. This will instantly clear all notifications.</string>
+		<string>A simple plugin that adds &quot;Clear All&quot; button to the bottom of the notification center. This will instantly clear all notifications.</string>
 		<key>descriptionShort</key>
-		<string>Adds "Clear All" button to notification center</string>
+		<string>Adds &quot;Clear All&quot; button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -660,7 +666,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
-		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don't miss out on all the fun of Mojave's Dark Mode just because you can't update your machine!</string>
+		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don&apos;t miss out on all the fun of Mojave&apos;s Dark Mode just because you can&apos;t update your machine!</string>
 		<key>descriptionShort</key>
 		<string>Dark Mode for macOS</string>
 		<key>donate</key>
