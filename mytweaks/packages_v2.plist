@@ -2,6 +2,50 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.macenhance.ColorMenuItems</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Mar 17, 2020</string>
+		<key>description</key>
+		<string></string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/ColorMenuItems_0.6.9.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>Color Menu</string>
+		<key>package</key>
+		<string>com.macenhance.ColorMenuItems</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>20999</integer>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.6.9</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>com.macenhance.ColorTracks</key>
 	<dict>
 		<key>apps</key>
@@ -13,7 +57,7 @@
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Nov 13, 2019</string>
+		<string>Mar 17, 2020</string>
 		<key>description</key>
 		<string>ColorTracks is a MacForge plugin that adds some features to Apples Now Playing Widget.
 Color match controls to albumn art
@@ -24,7 +68,7 @@ Scrolling track titles</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/ColorTracks_1.0.3.zip</string>
+		<string>/bundles/ColorTracks_1.1.0.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -34,7 +78,7 @@ Scrolling track titles</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<integer>31240</integer>
+		<integer>33275</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -43,7 +87,51 @@ Scrolling track titles</string>
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0.3</string>
+		<string>1.1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.macenhance.podcastsPlus</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Mar 17, 2020</string>
+		<key>description</key>
+		<string></string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/podcastsPlus_1.1.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>podcastsPlus</string>
+		<key>package</key>
+		<string>com.macenhance.podcastsPlus</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>820946</integer>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.1.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -202,9 +290,9 @@ Scrolling track titles</string>
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -300,7 +388,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 22, 2019</string>
 		<key>description</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>descriptionShort</key>
 		<string>Load F-Script into all applications</string>
 		<key>donate</key>
@@ -325,7 +413,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0</string>
+		<string>1.1</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -436,9 +524,9 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
-		<string>A simple plugin that adds &quot;Clear All&quot; button to the bottom of the notification center. This will instantly clear all notifications.</string>
+		<string>A simple plugin that adds "Clear All" button to the bottom of the notification center. This will instantly clear all notifications.</string>
 		<key>descriptionShort</key>
-		<string>Adds &quot;Clear All&quot; button to notification center</string>
+		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -572,7 +660,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
-		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don&apos;t miss out on all the fun of Mojave&apos;s Dark Mode just because you can&apos;t update your machine!</string>
+		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don't miss out on all the fun of Mojave's Dark Mode just because you can't update your machine!</string>
 		<key>descriptionShort</key>
 		<string>Dark Mode for macOS</string>
 		<key>donate</key>
@@ -856,7 +944,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Nov 12, 2016</string>
+		<string>Mar 16, 2020</string>
 		<key>description</key>
 		<string>Add vibrancy to most application windows</string>
 		<key>descriptionShort</key>
@@ -864,7 +952,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/zestyWin_0.1.41.zip</string>
+		<string>/bundles/zestyWin_0.2.49.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -876,7 +964,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<integer>21895</integer>
+		<integer>22102</integer>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -887,7 +975,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.1.41</string>
+		<string>0.2.49</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
