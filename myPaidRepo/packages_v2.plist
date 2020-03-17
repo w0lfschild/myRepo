@@ -15,7 +15,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Oct 07, 2019</string>
+		<string>Mar 17, 2020</string>
 		<key>description</key>
 		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
 
@@ -25,7 +25,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cDock_3.0.8.zip</string>
+		<string>/bundles/cDock_3.1.2.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -41,7 +41,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>productID</key>
 		<string>520974</string>
 		<key>size</key>
-		<integer>14695553</integer>
+		<integer>14709851</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -52,7 +52,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>type</key>
 		<string>app</string>
 		<key>version</key>
-		<string>3.0.8</string>
+		<string>3.1.2</string>
 		<key>webpage</key>
 		<string>https://cdock.macenhance.com/</string>
 	</dict>
