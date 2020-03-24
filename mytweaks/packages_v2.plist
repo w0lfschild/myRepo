@@ -851,7 +851,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Aug 21, 2018</string>
+		<string>Mar 24, 2020</string>
 		<key>description</key>
 		<string>spotifyPlus is a SIMBL plugin that adds some features to the Spotify desktop player
 - Automatically mute audio ads
@@ -868,7 +868,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/spotifyPlus_0.6.3.zip</string>
+		<string>/bundles/spotifyPlus_0.6.11.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -878,7 +878,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<integer>823860</integer>
+		<integer>825960</integer>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -889,7 +889,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.6.3</string>
+		<string>0.6.11</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
