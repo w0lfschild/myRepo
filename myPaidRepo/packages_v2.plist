@@ -75,7 +75,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cleanHUD_0.10.4.zip</string>
+		<string>/bundles/cleanHUD_0.10.6.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -91,7 +91,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>productID</key>
 		<string>535217</string>
 		<key>size</key>
-		<integer>38826</integer>
+		<integer>38851</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -100,7 +100,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.10.4</string>
+		<string>0.10.6</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
