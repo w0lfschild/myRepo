@@ -171,7 +171,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Jul 12, 2018</string>
+		<string>Apr 09, 2020</string>
 		<key>description</key>
 		<string>Shrink the menubar of the running application</string>
 		<key>descriptionShort</key>
@@ -179,7 +179,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/moreMenu_0.3.2.zip</string>
+		<string>/bundles/moreMenu_0.3.3.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -195,7 +195,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>productID</key>
 		<string>534450</string>
 		<key>size</key>
-		<integer>21196</integer>
+		<integer>21318</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -204,7 +204,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.3.2</string>
+		<string>0.3.3</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
