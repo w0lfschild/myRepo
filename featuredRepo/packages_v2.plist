@@ -17,7 +17,7 @@
 		<key>date</key>
 		<string>Dec 07, 2019</string>
 		<key>description</key>
-		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   "What Dashboard should have become." -zombi3gee</string>
+		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   &quot;What Dashboard should have become.&quot; -zombi3gee</string>
 		<key>descriptionShort</key>
 		<string>The First and Only App to Transform Today Extensions into Desktop Widgets</string>
 		<key>donate</key>
@@ -473,7 +473,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>author</key>
 		<string>macEnhance</string>
 		<key>compat</key>
-		<string>macOS 10.14+</string>
+		<string>macOS 10.13+</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
@@ -485,7 +485,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/colorfulSidebar9_2.0.2.zip</string>
+		<string>/bundles/colorfulSidebar9_2.1.2.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -518,7 +518,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>2.0.2</string>
+		<string>2.1.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -539,9 +539,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>description</key>
 		<string>moreMenu allows you to shrink the menubar of the running application
 
-"It's like Bartender but for the left side!" - Craig Federighi
+&quot;It&apos;s like Bartender but for the left side!&quot; - Craig Federighi
 
-"⭐️⭐️⭐️⭐️⭐️" - Tim Cook</string>
+&quot;⭐️⭐️⭐️⭐️⭐️&quot; - Tim Cook</string>
 		<key>descriptionShort</key>
 		<string>Shrink the menubar of the running application</string>
 		<key>donate</key>
